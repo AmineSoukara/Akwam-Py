@@ -54,7 +54,7 @@
 # ⭐️ Features:
 <div align="left">
 
->> ✅️ DONE 
+> ✅️ DONE 
 
 * [x] Smart Search
 * [x] Extract Full Info From Url
@@ -64,7 +64,7 @@
 * [x] Extract Previous And Next Episode
 * [x] Extract Movies Or Series From Paths
 
->> ⭕️ TODO 
+> ⭕️ TODO 
 
 * [ ] More Features 
 
