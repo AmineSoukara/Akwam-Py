@@ -1,0 +1,38 @@
+[
+    {
+        "quality": "WEB-DL",
+        "resolution": "480p",
+        "dl": "https://s104.akwam.link/download/1673470481/63bdd0912ade8/The.Pale.Blue.Eye.2022.480p.WEB-DL.AKWAM.mp4",
+        "origin_name": "The.Pale.Blue.Eye.2022.480p.WEB-DL.AKWAM.mp4",
+        "file_name": "[DAMIEN].The.Pale.Blue.Eye.2022.480p.WEB-DL.mp4",
+        "name": "The Pale Blue Eye 2022",
+        "size": {
+            "humanbytes": "714.3 MB",
+            "bytes": 748997836.8
+        }
+    },
+    {
+        "quality": "WEB-DL",
+        "resolution": "720p",
+        "dl": "https://s103.akwam.link/download/1673470481/63bdd0910135d/The.Pale.Blue.Eye.2022.720p.WEB-DL.AKWAM.mp4",
+        "origin_name": "The.Pale.Blue.Eye.2022.720p.WEB-DL.AKWAM.mp4",
+        "file_name": "[DAMIEN].The.Pale.Blue.Eye.2022.720p.WEB-DL.mp4",
+        "name": "The Pale Blue Eye 2022",
+        "size": {
+            "humanbytes": "1.4 GB",
+            "bytes": 1503238553.6
+        }
+    },
+    {
+        "quality": "WEB-DL",
+        "resolution": "1080p",
+        "dl": "https://s102.akwam.link/download/1673470481/63bdd09125821/The.Pale.Blue.Eye.2022.1080p.WEB-DL.AKWAM.mp4",
+        "origin_name": "The.Pale.Blue.Eye.2022.1080p.WEB-DL.AKWAM.mp4",
+        "file_name": "[DAMIEN].The.Pale.Blue.Eye.2022.1080p.WEB-DL.mp4",
+        "name": "The Pale Blue Eye 2022",
+        "size": {
+            "humanbytes": "2.7 GB",
+            "bytes": 2899102924.8
+        }
+    }
+]
