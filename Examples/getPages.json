@@ -1,6 +1,16 @@
 [
     {
         "type": "movie",
+        "id": "movie/7788",
+        "title": "الخلبوص",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7788/الخلبوص",
+        "rating": "4.7/10",
+        "img": "https://img.akwam.link/uploads/fdPDg.jpg",
+        "short_link": "https://akwam.to/watch/131104/7788"
+    },
+    {
+        "type": "movie",
         "id": "movie/7800",
         "title": "غاوي مشاكل",
         "quality": "WEB-DL",
@@ -468,15 +478,5 @@
         "rating": "6.8/10",
         "img": "https://img.akwam.link/uploads/uf5aX.jpg",
         "short_link": "https://akwam.to/watch/130555/7834"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7833",
-        "title": "The Young Chief Winnetou",
-        "quality": "BluRay",
-        "url": "https://akwam.to/movie/7833/the-young-chief-winnetou",
-        "rating": "5.3/10",
-        "img": "https://img.akwam.link/uploads/JclvC.jpg",
-        "short_link": "https://akwam.to/watch/130560/7833"
     }
 ]
