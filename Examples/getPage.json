@@ -1,5 +1,165 @@
 [
     {
+        "type": "shows",
+        "id": "shows/2444",
+        "title": "Chasing Waves",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/shows/2444/chasing-waves",
+        "rating": "6.3/10",
+        "img": "https://img.akwam.link/uploads/j9ePD.jpg",
+        "short_link": null
+    },
+    {
+        "type": "series",
+        "id": "series/3893",
+        "title": "حواجز مبعثرة",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3893/حواجز-مبعثرة",
+        "rating": "5.6/10",
+        "img": "https://img.akwam.link/uploads/LPWkt.jpg",
+        "short_link": null
+    },
+    {
+        "type": "series",
+        "id": "series/3892",
+        "title": "The Best Man The Final Chapters الموسم الاول",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3892/the-best-man-the-final-chapters-الموسم-الاول",
+        "rating": "8.3/10",
+        "img": "https://img.akwam.link/uploads/R6Sh2.jpg",
+        "short_link": null
+    },
+    {
+        "type": "movie",
+        "id": "movie/7884",
+        "title": "Arsenault and Fils",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/7884/arsenault-and-fils",
+        "rating": "6.7/10",
+        "img": "https://img.akwam.link/uploads/J0ZN7.jpg",
+        "short_link": "https://akwam.to/watch/131190/7884"
+    },
+    {
+        "type": "series",
+        "id": "series/3891",
+        "title": "Son of a Critch الموسم الثاني",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3891/son-of-a-critch-الموسم-الثاني",
+        "rating": "7.2/10",
+        "img": "https://img.akwam.link/uploads/aARyH.jpg",
+        "short_link": null
+    },
+    {
+        "type": "series",
+        "id": "series/3890",
+        "title": "Natural Born Narco الموسم الاول",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3890/natural-born-narco-الموسم-الاول",
+        "rating": "8.3/10",
+        "img": "https://img.akwam.link/uploads/RzjN0.jpg",
+        "short_link": null
+    },
+    {
+        "type": "series",
+        "id": "series/3889",
+        "title": "Tell Me Everything الموسم الاول",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3889/tell-me-everything-الموسم-الاول",
+        "rating": "7.9/10",
+        "img": "https://img.akwam.link/uploads/mClbf.jpg",
+        "short_link": null
+    },
+    {
+        "type": "series",
+        "id": "series/3888",
+        "title": "The Croods Family Tree الموسم الخامس",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3888/the-croods-family-tree-الموسم-الخامس",
+        "rating": "6.8/10",
+        "img": "https://img.akwam.link/uploads/nhTn9.jpg",
+        "short_link": null
+    },
+    {
+        "type": "series",
+        "id": "series/3887",
+        "title": "Tokyo Revengers الموسم الثاني",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3887/tokyo-revengers-الموسم-الثاني",
+        "rating": "8.0/10",
+        "img": "https://img.akwam.link/uploads/p0Xbc.jpg",
+        "short_link": null
+    },
+    {
+        "type": "movie",
+        "id": "movie/7883",
+        "title": "Rite of the Shaman",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7883/rite-of-the-shaman",
+        "rating": "7.9/10",
+        "img": "https://img.akwam.link/uploads/PvJ6Z.jpg",
+        "short_link": "https://akwam.to/watch/131146/7883"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7882",
+        "title": "The Leech",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/7882/the-leech",
+        "rating": "5.6/10",
+        "img": "https://img.akwam.link/uploads/loGLo.jpg",
+        "short_link": "https://akwam.to/watch/131143/7882"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7881",
+        "title": "Noise",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7881/noise",
+        "rating": "5.7/10",
+        "img": "https://img.akwam.link/uploads/mqpbS.jpg",
+        "short_link": "https://akwam.to/watch/131141/7881"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7880",
+        "title": "Sadistic: The Exorcism of Lily Deckert",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7880/sadistic-the-exorcism-of-lily-deckert",
+        "rating": "2.0/10",
+        "img": "https://img.akwam.link/uploads/YRGGj.jpg",
+        "short_link": "https://akwam.to/watch/131139/7880"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7879",
+        "title": "Family History Mysteries: Buried Past",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7879/family-history-mysteries-buried-past",
+        "rating": "7.4/10",
+        "img": "https://img.akwam.link/uploads/nqXQw.jpg",
+        "short_link": "https://akwam.to/watch/131137/7879"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7878",
+        "title": "Utama",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/7878/utama",
+        "rating": "7.6/10",
+        "img": "https://img.akwam.link/uploads/VX0Lg.jpg",
+        "short_link": "https://akwam.to/watch/131133/7878"
+    },
+    {
+        "type": "series",
+        "id": "series/3886",
+        "title": "Taçsiz Prenses الموسم الاول",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3886/tasiz-prenses-الموسم-الاول",
+        "rating": "8.0/10",
+        "img": "https://img.akwam.link/uploads/aKxI6.jpg",
+        "short_link": null
+    },
+    {
         "type": "series",
         "id": "series/3885",
         "title": "Vinland Saga الموسم الثاني",
@@ -438,165 +598,5 @@
         "rating": "5.2/10",
         "img": "https://img.akwam.link/uploads/Ew0kU.jpg",
         "short_link": "https://akwam.to/watch/130743/7841"
-    },
-    {
-        "type": "series",
-        "id": "series/3870",
-        "title": "Run the Burbs الموسم الثاني",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3870/run-the-burbs-الموسم-الثاني",
-        "rating": "5.2/10",
-        "img": "https://img.akwam.link/uploads/ouEpc.jpg",
-        "short_link": null
-    },
-    {
-        "type": "series",
-        "id": "series/3869",
-        "title": "Pretty Hard Cases الموسم الثالث",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3869/pretty-hard-cases-الموسم-الثالث",
-        "rating": "6.7/10",
-        "img": "https://img.akwam.link/uploads/6OVrH.jpg",
-        "short_link": null
-    },
-    {
-        "type": "series",
-        "id": "series/3868",
-        "title": "Romantic Getaway الموسم الاول",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3868/romantic-getaway-الموسم-الاول",
-        "rating": "5.6/10",
-        "img": "https://img.akwam.link/uploads/ydfnM.jpg",
-        "short_link": null
-    },
-    {
-        "type": "series",
-        "id": "series/3867",
-        "title": "Fenris الموسم الاول",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3867/fenris-الموسم-الاول",
-        "rating": "6.8/10",
-        "img": "https://img.akwam.link/uploads/HzIEq.jpg",
-        "short_link": null
-    },
-    {
-        "type": "series",
-        "id": "series/3866",
-        "title": "Ginny and Georgia الموسم الثاني",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3866/ginny-and-georgia-الموسم-الثاني",
-        "rating": "7.4/10",
-        "img": "https://img.akwam.link/uploads/fys3R.jpg",
-        "short_link": null
-    },
-    {
-        "type": "series",
-        "id": "series/3865",
-        "title": "Woman of the Dead الموسم الاول",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3865/woman-of-the-dead-الموسم-الاول",
-        "rating": "6.9/10",
-        "img": "https://img.akwam.link/uploads/nJATg.jpg",
-        "short_link": null
-    },
-    {
-        "type": "series",
-        "id": "series/3864",
-        "title": "Copenhagen Cowboy الموسم الاول",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3864/copenhagen-cowboy-الموسم-الاول",
-        "rating": "6.8/10",
-        "img": "https://img.akwam.link/uploads/Bp0lw.jpg",
-        "short_link": null
-    },
-    {
-        "type": "movie",
-        "id": "movie/7840",
-        "title": "حياة امرأة",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7840/حياة-امرأة",
-        "rating": "5.5/10",
-        "img": "https://img.akwam.link/uploads/nxDrQ.jpg",
-        "short_link": "https://akwam.to/watch/130695/7840"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7839",
-        "title": "الحارة",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7839/الحارة",
-        "rating": "4.3/10",
-        "img": "https://img.akwam.link/uploads/Hnjhp.jpg",
-        "short_link": "https://akwam.to/watch/130692/7839"
-    },
-    {
-        "type": "series",
-        "id": "series/3863",
-        "title": "Taiwan Crime Stories الموسم الاول",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3863/taiwan-crime-stories-الموسم-الاول",
-        "rating": "6.0/10",
-        "img": "https://img.akwam.link/uploads/jlHWk.jpg",
-        "short_link": null
-    },
-    {
-        "type": "series",
-        "id": "series/3862",
-        "title": "The French Mans الموسم الثاني",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3862/the-french-mans-الموسم-الثاني",
-        "rating": "6.3/10",
-        "img": "https://img.akwam.link/uploads/t5OI0.jpg",
-        "short_link": null
-    },
-    {
-        "type": "shows",
-        "id": "shows/2438",
-        "title": "WWE NXT 2023.01.03",
-        "quality": "WebRip",
-        "url": "https://akwam.to/shows/2438/wwe-nxt 2023-01-03",
-        "rating": "6.1/10",
-        "img": "https://img.akwam.link/uploads/VYt7N.jpg",
-        "short_link": "https://akwam.to/watch/130683/2438"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7838",
-        "title": "New Kung Fu Cult Master 1",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7838/new-kung-fu-cult-master-1",
-        "rating": "5.0/10",
-        "img": "https://img.akwam.link/uploads/RWDpx.jpg",
-        "short_link": "https://akwam.to/watch/130654/7838"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7837",
-        "title": "New Kung Fu Cult Master 2",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7837/new-kung-fu-cult-master-2",
-        "rating": "5.2/10",
-        "img": "https://img.akwam.link/uploads/bxZea.jpg",
-        "short_link": "https://akwam.to/watch/130656/7837"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7836",
-        "title": "HIT: The 2nd Case",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7836/hit-the-2nd-case",
-        "rating": "7.5/10",
-        "img": "https://img.akwam.link/uploads/rgig2.jpg",
-        "short_link": "https://akwam.to/watch/130652/7836"
-    },
-    {
-        "type": "series",
-        "id": "series/3861",
-        "title": "Will Trent الموسم الاول",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3861/will-trent-الموسم-الاول",
-        "rating": "7.5/10",
-        "img": "https://img.akwam.link/uploads/gk5ZE.jpg",
-        "short_link": null
     }
 ]
