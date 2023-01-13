@@ -1,4 +1,4 @@
-requests==2.28.1
+requests==2.28.2
 urllib3==1.26.14
 bs4==0.0.1
 strsimpy==0.2.1
