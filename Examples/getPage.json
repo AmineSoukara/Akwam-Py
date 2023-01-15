@@ -1,5 +1,122 @@
 [
     {
+        "type": "shows",
+        "id": "shows/2450",
+        "title": "AEW Rampage 2023.01.13",
+        "quality": "WebRip",
+        "url": "https://akwam.to/shows/2450/aew-rampage-2023-01-13",
+        "rating": "6.1/10",
+        "img": "https://img.akwam.link/uploads/xbGwc.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/3907",
+        "title": "Ates Kuslari الموسم الاول",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3907/ates-kuslari-الموسم-الاول",
+        "rating": "6.4/10",
+        "img": "https://img.akwam.link/uploads/QAzfM.jpg"
+    },
+    {
+        "type": "shows",
+        "id": "shows/2449",
+        "title": "WWE Friday Night Smackdown 2023.01.13",
+        "quality": "HDTV",
+        "url": "https://akwam.to/shows/2449/wwe-friday-night-smackdown-2023-01-13",
+        "rating": "5.9/10",
+        "img": "https://img.akwam.link/uploads/tLD7p.jpg"
+    },
+    {
+        "type": "shows",
+        "id": "shows/2447",
+        "title": "الدوم الموسم الثاني",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/shows/2447/الدوم-الموسم-الثاني",
+        "rating": "6.1/10",
+        "img": "https://img.akwam.link/uploads/mX4ML.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7897",
+        "title": "Cheppalani Undhi",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7897/cheppalani-undhi",
+        "rating": "8.6/10",
+        "img": "https://img.akwam.link/uploads/pKHnI.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7896",
+        "title": "Head Bush",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7896/head-bush",
+        "rating": "6.8/10",
+        "img": "https://img.akwam.link/uploads/7jQ2s.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7895",
+        "title": "Sick",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7895/sick",
+        "rating": "6.5/10",
+        "img": "https://img.akwam.link/uploads/DfQZw.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7894",
+        "title": "كوستا برافا، لبنان",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7894/كوستا-برافا-لبنان",
+        "rating": "3.9/10",
+        "img": "https://img.akwam.link/uploads/g7U5v.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/3906",
+        "title": "Servant الموسم الرابع",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3906/servant-الموسم-الرابع",
+        "rating": "7.5/10",
+        "img": "https://img.akwam.link/uploads/yBepm.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/3905",
+        "title": "Your Honor الموسم الثاني",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3905/your-honor-الموسم-الثاني",
+        "rating": "7.6/10",
+        "img": "https://img.akwam.link/uploads/7mLzO.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/3904",
+        "title": "Sky Rojo الموسم الثالث",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3904/sky-rojo-الموسم-الثالث",
+        "rating": "6.5/10",
+        "img": "https://img.akwam.link/uploads/2b8My.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/3903",
+        "title": "Trial by Fire الموسم الاول",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3903/trial-by-fire-الموسم-الاول",
+        "rating": "8.5/10",
+        "img": "https://img.akwam.link/uploads/cLNUF.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/3902",
+        "title": "الغواصة ياكاموز S-245",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3902/الغواصة-ياكاموز-s-245",
+        "rating": "6.1/10",
+        "img": "https://img.akwam.link/uploads/65Si2.jpg"
+    },
+    {
         "type": "movie",
         "id": "movie/7893",
         "title": "Retrograde",
@@ -43,6 +160,15 @@
         "url": "https://akwam.to/series/3901/أرواح-مسروقة",
         "rating": "6.9/10",
         "img": "https://img.akwam.link/uploads/mScF1.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/3900",
+        "title": "أميرة بلا تاج",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3900/أميرة-بلا-تاج",
+        "rating": "9.0/10",
+        "img": "https://img.akwam.link/uploads/VVVNC.jpg"
     },
     {
         "type": "movie",
@@ -412,131 +538,5 @@
         "url": "https://akwam.to/shows/2443/wwe-monday-night-raw-2023-01-09",
         "rating": "6.2/10",
         "img": "https://img.akwam.link/uploads/CIZ4J.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3882",
-        "title": "Omer الموسم الاول",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3882/omer-الموسم-الاول",
-        "rating": "7.6/10",
-        "img": "https://img.akwam.link/uploads/4m0SY.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3880",
-        "title": "Koala Man الموسم الاول",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3880/koala-man-الموسم-الاول",
-        "rating": "7.6/10",
-        "img": "https://img.akwam.link/uploads/k8RUN.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7860",
-        "title": "Thai Massage",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7860/thai-massage",
-        "rating": "6.2/10",
-        "img": "https://img.akwam.link/uploads/fyyU6.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7858",
-        "title": "Pattathu Arasan",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7858/pattathu-arasan",
-        "rating": "4.1/10",
-        "img": "https://img.akwam.link/uploads/lcZdz.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7857",
-        "title": "How It Ends",
-        "quality": "BluRay",
-        "url": "https://akwam.to/movie/7857/how-it-ends",
-        "rating": "5.2/10",
-        "img": "https://img.akwam.link/uploads/TC2HZ.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7856",
-        "title": "Mark,Mary and Some Other People",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7856/mark-mary-and-some-other-people",
-        "rating": "5.7/10",
-        "img": "https://img.akwam.link/uploads/dmI8g.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3878",
-        "title": "المشروع",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3878/المشروع",
-        "rating": "5.3/10",
-        "img": "https://img.akwam.link/uploads/2VzSb.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3877",
-        "title": "الثمن",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3877/الثمن",
-        "rating": "6.8/10",
-        "img": "https://img.akwam.link/uploads/UvIHC.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3876",
-        "title": "Vale dos Esquecidos الموسم الاول",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3876/vale-dos-esquecidos-الموسم-الاول",
-        "rating": "5.6/10",
-        "img": "https://img.akwam.link/uploads/OWNBG.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7855",
-        "title": "Devotion",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7855/devotion",
-        "rating": "7.0/10",
-        "img": "https://img.akwam.link/uploads/By22p.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7854",
-        "title": "Bed Rest",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7854/bed-rest",
-        "rating": "5.4/10",
-        "img": "https://img.akwam.link/uploads/84UoY.jpg"
-    },
-    {
-        "type": "shows",
-        "id": "shows/2442",
-        "title": "سهرانين موسم 2023",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/shows/2442/سهرانين-موسم-2023",
-        "rating": "6.3/10",
-        "img": "https://img.akwam.link/uploads/8Qh4h.jpg"
-    },
-    {
-        "type": "shows",
-        "id": "shows/2441",
-        "title": "الدحيح الموسم الثالث",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/shows/2441/الدحيح-الموسم-الثالث",
-        "rating": "6.3/10",
-        "img": "https://img.akwam.link/uploads/4XXhQ.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3875",
-        "title": "العزيمة الموسم الاول",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3875/العزيمة-الموسم-الاول",
-        "rating": "5.8/10",
-        "img": "https://img.akwam.link/uploads/UUfjQ.jpg"
     }
 ]
