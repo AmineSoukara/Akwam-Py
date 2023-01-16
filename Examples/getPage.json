@@ -1,5 +1,32 @@
 [
     {
+        "type": "series",
+        "id": "series/3910",
+        "title": "أولاد عابد",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3910/أولاد-عابد",
+        "rating": "6.8/10",
+        "img": "https://img.akwam.link/uploads/ZDv3v.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/3909",
+        "title": "Godfather of Harlem الموسم الثالث",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3909/godfather-of-harlem-الموسم-الثالث",
+        "rating": "8.1/10",
+        "img": "https://img.akwam.link/uploads/sA79G.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/3908",
+        "title": "Mayor of Kingstown الموسم الثاني",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3908/mayor-of-kingstown-الموسم-الثاني",
+        "rating": "8.2/10",
+        "img": "https://img.akwam.link/uploads/vy1k5.jpg"
+    },
+    {
         "type": "shows",
         "id": "shows/2450",
         "title": "AEW Rampage 2023.01.13",
@@ -511,32 +538,5 @@
         "url": "https://akwam.to/movie/7870/sinphony",
         "rating": "3.8/10",
         "img": "https://img.akwam.link/uploads/EoUSD.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7867",
-        "title": "Plurality",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7867/plurality",
-        "rating": "5.6/10",
-        "img": "https://img.akwam.link/uploads/QCB5w.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7864",
-        "title": "Godland",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7864/godland",
-        "rating": "7.3/10",
-        "img": "https://img.akwam.link/uploads/xU2z4.jpg"
-    },
-    {
-        "type": "shows",
-        "id": "shows/2443",
-        "title": "WWE Monday Night Raw 2023.01.09",
-        "quality": "HDTV",
-        "url": "https://akwam.to/shows/2443/wwe-monday-night-raw-2023-01-09",
-        "rating": "6.2/10",
-        "img": "https://img.akwam.link/uploads/CIZ4J.jpg"
     }
 ]
