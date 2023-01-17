@@ -1,273 +1,75 @@
 [
     {
         "type": "movie",
-        "id": "movie/7787",
-        "title": "Con Air",
-        "quality": "BluRay",
-        "url": "https://akwam.to/movie/7787/con-air",
-        "rating": "6.9/10",
-        "img": "https://img.akwam.link/uploads/mNWCL.jpg"
+        "id": "movie/7903",
+        "title": "Mister Mummy",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7903/mister-mummy",
+        "rating": "2.1/10",
+        "img": "https://img.akwam.link/uploads/sBWhN.jpg"
     },
     {
         "type": "movie",
-        "id": "movie/7786",
-        "title": "بيكيا",
+        "id": "movie/7902",
+        "title": "Laththi",
         "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7786/بيكيا",
-        "rating": "5.6/10",
-        "img": "https://img.akwam.link/uploads/BkBCN.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7785",
-        "title": "الكبار",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7785/الكبار",
-        "rating": "6.1/10",
-        "img": "https://img.akwam.link/uploads/Vqi8P.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7877",
-        "title": "Detective Chen",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7877/detective-chen",
-        "rating": "6.5/10",
-        "img": "https://img.akwam.link/uploads/DS1D9.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7876",
-        "title": "The Killing Angels",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7876/the-killing-angels",
-        "rating": "5.5/10",
-        "img": "https://img.akwam.link/uploads/HgQyf.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7875",
-        "title": "Beautiful Beings",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7875/beautiful-beings",
-        "rating": "7.8/10",
-        "img": "https://img.akwam.link/uploads/cObVX.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7874",
-        "title": "Candy Land",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7874/candy-land",
-        "rating": "6.8/10",
-        "img": "https://img.akwam.link/uploads/CKidN.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7872",
-        "title": "Eo",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7872/eo",
-        "rating": "7.0/10",
-        "img": "https://img.akwam.link/uploads/ZYZA6.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7871",
-        "title": "سونيك القنفذ 2",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7871/سونيك-القنفذ-2",
-        "rating": "6.5/10",
-        "img": "https://img.akwam.link/uploads/4owxL.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7870",
-        "title": "Sinphony",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7870/sinphony",
-        "rating": "3.8/10",
-        "img": "https://img.akwam.link/uploads/EoUSD.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7867",
-        "title": "Plurality",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7867/plurality",
-        "rating": "5.6/10",
-        "img": "https://img.akwam.link/uploads/QCB5w.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7864",
-        "title": "Godland",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7864/godland",
+        "url": "https://akwam.to/movie/7902/laththi",
         "rating": "7.3/10",
-        "img": "https://img.akwam.link/uploads/xU2z4.jpg"
+        "img": "https://img.akwam.link/uploads/bAMTd.jpg"
     },
     {
         "type": "movie",
-        "id": "movie/6735",
-        "title": "بحبك",
+        "id": "movie/7901",
+        "title": "Varalaru Mukkiyam",
         "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/6735/بحبك",
-        "rating": "5.1/10",
-        "img": "https://img.akwam.link/uploads/3bROt.jpg"
+        "url": "https://akwam.to/movie/7901/varalaru-mukkiyam",
+        "rating": "5.8/10",
+        "img": "https://img.akwam.link/uploads/7hF8J.jpg"
     },
     {
         "type": "movie",
-        "id": "movie/7846",
-        "title": "The Pale Blue Eye",
+        "id": "movie/7900",
+        "title": "Korameenu",
         "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7846/the-pale-blue-eye",
-        "rating": "6.5/10",
-        "img": "https://img.akwam.link/uploads/mUzRb.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7835",
-        "title": "الباب الأخضر",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7835/الباب-الأخضر",
-        "rating": "7.0/10",
-        "img": "https://img.akwam.link/uploads/RrSmA.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7855",
-        "title": "Devotion",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7855/devotion",
-        "rating": "7.0/10",
-        "img": "https://img.akwam.link/uploads/By22p.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7860",
-        "title": "Thai Massage",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7860/thai-massage",
-        "rating": "6.2/10",
-        "img": "https://img.akwam.link/uploads/fyyU6.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7858",
-        "title": "Pattathu Arasan",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7858/pattathu-arasan",
-        "rating": "4.1/10",
-        "img": "https://img.akwam.link/uploads/lcZdz.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7857",
-        "title": "How It Ends",
-        "quality": "BluRay",
-        "url": "https://akwam.to/movie/7857/how-it-ends",
-        "rating": "5.2/10",
-        "img": "https://img.akwam.link/uploads/TC2HZ.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7856",
-        "title": "Mark,Mary and Some Other People",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7856/mark-mary-and-some-other-people",
-        "rating": "5.7/10",
-        "img": "https://img.akwam.link/uploads/dmI8g.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7854",
-        "title": "Bed Rest",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7854/bed-rest",
-        "rating": "5.4/10",
-        "img": "https://img.akwam.link/uploads/84UoY.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7847",
-        "title": "Puss in Boots: The Last Wish",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7847/puss-in-boots-the-last-wish",
-        "rating": "7.8/10",
-        "img": "https://img.akwam.link/uploads/wE2T1.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7853",
-        "title": "Gatta Kusthi",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7853/gatta-kusthi",
-        "rating": "6.7/10",
-        "img": "https://img.akwam.link/uploads/2ID4A.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7852",
-        "title": "Ullasam",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7852/ullasam",
-        "rating": "6.8/10",
-        "img": "https://img.akwam.link/uploads/nt1wK.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7851",
-        "title": "Uunchai",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7851/uunchai",
-        "rating": "7.6/10",
-        "img": "https://img.akwam.link/uploads/khvog.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7850",
-        "title": "Kamli",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7850/kamli",
+        "url": "https://akwam.to/movie/7900/korameenu",
         "rating": "8.0/10",
-        "img": "https://img.akwam.link/uploads/hrEQj.jpg"
+        "img": "https://img.akwam.link/uploads/qo0NW.jpg"
     },
     {
         "type": "movie",
-        "id": "movie/7849",
-        "title": "My Broken Mariko",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7849/my-broken-mariko",
-        "rating": "6.4/10",
-        "img": "https://img.akwam.link/uploads/tBim0.jpg"
+        "id": "movie/7626",
+        "title": "The Menu",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/7626/the-menu",
+        "rating": "7.5/10",
+        "img": "https://img.akwam.link/uploads/Uk1hY.jpg"
     },
     {
         "type": "movie",
-        "id": "movie/7848",
-        "title": "Mumbai Mafia: Police vs the Underworld",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7848/mumbai-mafia-police-vs-the-underworld",
-        "rating": "6.5/10",
-        "img": "https://img.akwam.link/uploads/iBEFe.jpg"
+        "id": "movie/7669",
+        "title": "She Said",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/7669/she-said",
+        "rating": "7.2/10",
+        "img": "https://img.akwam.link/uploads/YxaYi.jpg"
     },
     {
         "type": "movie",
-        "id": "movie/7845",
-        "title": "The Kings of the World",
+        "id": "movie/7899",
+        "title": "Chile ’76",
         "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7845/the-kings-of-the-world",
-        "rating": "7.6/10",
-        "img": "https://img.akwam.link/uploads/wLHpx.jpg"
+        "url": "https://akwam.to/movie/7899/chile-76",
+        "rating": "6.7/10",
+        "img": "https://img.akwam.link/uploads/lbvjP.jpg"
     },
     {
         "type": "movie",
-        "id": "movie/7843",
-        "title": "النهر",
+        "id": "movie/7898",
+        "title": "The Drop",
         "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7843/النهر",
+        "url": "https://akwam.to/movie/7898/the-drop",
         "rating": "4.3/10",
-        "img": "https://img.akwam.link/uploads/1lA3J.jpg"
+        "img": "https://img.akwam.link/uploads/SNJkG.jpg"
     },
     {
         "type": "movie",
@@ -538,5 +340,203 @@
         "url": "https://akwam.to/movie/7789/إزاى-البنات-تحبك",
         "rating": "4.0/10",
         "img": "https://img.akwam.link/uploads/ucseL.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7787",
+        "title": "Con Air",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/7787/con-air",
+        "rating": "6.9/10",
+        "img": "https://img.akwam.link/uploads/mNWCL.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7786",
+        "title": "بيكيا",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7786/بيكيا",
+        "rating": "5.6/10",
+        "img": "https://img.akwam.link/uploads/BkBCN.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7785",
+        "title": "الكبار",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7785/الكبار",
+        "rating": "6.1/10",
+        "img": "https://img.akwam.link/uploads/Vqi8P.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7877",
+        "title": "Detective Chen",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7877/detective-chen",
+        "rating": "6.5/10",
+        "img": "https://img.akwam.link/uploads/DS1D9.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7876",
+        "title": "The Killing Angels",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7876/the-killing-angels",
+        "rating": "5.5/10",
+        "img": "https://img.akwam.link/uploads/HgQyf.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7875",
+        "title": "Beautiful Beings",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7875/beautiful-beings",
+        "rating": "7.8/10",
+        "img": "https://img.akwam.link/uploads/cObVX.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7874",
+        "title": "Candy Land",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7874/candy-land",
+        "rating": "6.8/10",
+        "img": "https://img.akwam.link/uploads/CKidN.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7872",
+        "title": "Eo",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7872/eo",
+        "rating": "7.0/10",
+        "img": "https://img.akwam.link/uploads/ZYZA6.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7871",
+        "title": "سونيك القنفذ 2",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7871/سونيك-القنفذ-2",
+        "rating": "6.5/10",
+        "img": "https://img.akwam.link/uploads/4owxL.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7870",
+        "title": "Sinphony",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7870/sinphony",
+        "rating": "3.8/10",
+        "img": "https://img.akwam.link/uploads/EoUSD.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7867",
+        "title": "Plurality",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7867/plurality",
+        "rating": "5.6/10",
+        "img": "https://img.akwam.link/uploads/QCB5w.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7864",
+        "title": "Godland",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7864/godland",
+        "rating": "7.3/10",
+        "img": "https://img.akwam.link/uploads/xU2z4.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/6735",
+        "title": "بحبك",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/6735/بحبك",
+        "rating": "5.1/10",
+        "img": "https://img.akwam.link/uploads/3bROt.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7846",
+        "title": "The Pale Blue Eye",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7846/the-pale-blue-eye",
+        "rating": "6.5/10",
+        "img": "https://img.akwam.link/uploads/mUzRb.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7835",
+        "title": "الباب الأخضر",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7835/الباب-الأخضر",
+        "rating": "7.0/10",
+        "img": "https://img.akwam.link/uploads/RrSmA.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7855",
+        "title": "Devotion",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7855/devotion",
+        "rating": "7.0/10",
+        "img": "https://img.akwam.link/uploads/By22p.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7860",
+        "title": "Thai Massage",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7860/thai-massage",
+        "rating": "6.2/10",
+        "img": "https://img.akwam.link/uploads/fyyU6.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7858",
+        "title": "Pattathu Arasan",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7858/pattathu-arasan",
+        "rating": "4.1/10",
+        "img": "https://img.akwam.link/uploads/lcZdz.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7857",
+        "title": "How It Ends",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/7857/how-it-ends",
+        "rating": "5.2/10",
+        "img": "https://img.akwam.link/uploads/TC2HZ.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7856",
+        "title": "Mark,Mary and Some Other People",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7856/mark-mary-and-some-other-people",
+        "rating": "5.7/10",
+        "img": "https://img.akwam.link/uploads/dmI8g.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7854",
+        "title": "Bed Rest",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7854/bed-rest",
+        "rating": "5.4/10",
+        "img": "https://img.akwam.link/uploads/84UoY.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7847",
+        "title": "Puss in Boots: The Last Wish",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7847/puss-in-boots-the-last-wish",
+        "rating": "7.8/10",
+        "img": "https://img.akwam.link/uploads/wE2T1.jpg"
     }
 ]

@@ -1,5 +1,77 @@
 [
     {
+        "type": "shows",
+        "id": "shows/2451",
+        "title": "Pele Long Live The King",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/shows/2451/pele-long-live-the-king",
+        "rating": "6.2/10",
+        "img": "https://img.akwam.link/uploads/6Bqlq.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7903",
+        "title": "Mister Mummy",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7903/mister-mummy",
+        "rating": "2.1/10",
+        "img": "https://img.akwam.link/uploads/sBWhN.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7902",
+        "title": "Laththi",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7902/laththi",
+        "rating": "7.3/10",
+        "img": "https://img.akwam.link/uploads/bAMTd.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7901",
+        "title": "Varalaru Mukkiyam",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7901/varalaru-mukkiyam",
+        "rating": "5.8/10",
+        "img": "https://img.akwam.link/uploads/7hF8J.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7900",
+        "title": "Korameenu",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7900/korameenu",
+        "rating": "8.0/10",
+        "img": "https://img.akwam.link/uploads/qo0NW.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7899",
+        "title": "Chile ’76",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7899/chile-76",
+        "rating": "6.7/10",
+        "img": "https://img.akwam.link/uploads/lbvjP.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7898",
+        "title": "The Drop",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7898/the-drop",
+        "rating": "4.3/10",
+        "img": "https://img.akwam.link/uploads/SNJkG.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/3911",
+        "title": "The Last of Us الموسم الاول",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3911/the-last-of-us-الموسم-الاول",
+        "rating": "9.7/10",
+        "img": "https://img.akwam.link/uploads/HER1I.jpg"
+    },
+    {
         "type": "series",
         "id": "series/3910",
         "title": "أولاد عابد",
@@ -130,7 +202,7 @@
         "id": "series/3903",
         "title": "Trial by Fire الموسم الاول",
         "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3903/trial-by-fire-الموسم-الاول",
+        "url": "https://akwam.to/series/3903/trial-by-fire-الموسم-الاول-1",
         "rating": "8.5/10",
         "img": "https://img.akwam.link/uploads/cLNUF.jpg"
     },
@@ -466,77 +538,5 @@
         "url": "https://akwam.to/series/3885/vinland-saga-الموسم-الثاني",
         "rating": "8.8/10",
         "img": "https://img.akwam.link/uploads/mRQhD.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7877",
-        "title": "Detective Chen",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7877/detective-chen",
-        "rating": "6.5/10",
-        "img": "https://img.akwam.link/uploads/DS1D9.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7876",
-        "title": "The Killing Angels",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7876/the-killing-angels",
-        "rating": "5.5/10",
-        "img": "https://img.akwam.link/uploads/HgQyf.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7875",
-        "title": "Beautiful Beings",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7875/beautiful-beings",
-        "rating": "7.8/10",
-        "img": "https://img.akwam.link/uploads/cObVX.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7874",
-        "title": "Candy Land",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7874/candy-land",
-        "rating": "6.8/10",
-        "img": "https://img.akwam.link/uploads/CKidN.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7872",
-        "title": "Eo",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7872/eo",
-        "rating": "7.0/10",
-        "img": "https://img.akwam.link/uploads/ZYZA6.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7871",
-        "title": "سونيك القنفذ 2",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7871/سونيك-القنفذ-2",
-        "rating": "6.5/10",
-        "img": "https://img.akwam.link/uploads/4owxL.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3884",
-        "title": "Alert الموسم الاول",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3884/alert-الموسم-الاول",
-        "rating": "6.4/10",
-        "img": "https://img.akwam.link/uploads/r9LDJ.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7870",
-        "title": "Sinphony",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7870/sinphony",
-        "rating": "3.8/10",
-        "img": "https://img.akwam.link/uploads/EoUSD.jpg"
     }
 ]
