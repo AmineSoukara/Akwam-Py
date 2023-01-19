@@ -1,5 +1,131 @@
 [
     {
+        "type": "movie",
+        "id": "movie/7923",
+        "title": "Inspector Sun and the Curse of the Black Widow",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7923/inspector-sun-and-the-curse-of-the-black-widow",
+        "rating": "5.9/10",
+        "img": "https://img.akwam.link/uploads/dB3JJ.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7922",
+        "title": "الهيبة : الفيلم",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7922/الهيبة-الفيلم",
+        "rating": "6.0/10",
+        "img": "https://img.akwam.link/uploads/R5TkP.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/3916",
+        "title": "أقل من عادي",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3916/أقل-من-عادي",
+        "rating": "6.0/10",
+        "img": "https://img.akwam.link/uploads/tqNXr.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7921",
+        "title": "Ballabhpurer Roopkotha",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7921/ballabhpurer-roopkotha",
+        "rating": "8.5/10",
+        "img": "https://img.akwam.link/uploads/4gqvf.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7920",
+        "title": "Gulu Gulu",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7920/gulu-gulu",
+        "rating": "6.0/10",
+        "img": "https://img.akwam.link/uploads/t0vlD.jpg"
+    },
+    {
+        "type": "shows",
+        "id": "shows/2454",
+        "title": "WWE NXT 2023.01.17",
+        "quality": "WebRip",
+        "url": "https://akwam.to/shows/2454/wwe-nxt 2023-01-17",
+        "rating": "5.3/10",
+        "img": "https://img.akwam.link/uploads/VYt7N.jpg"
+    },
+    {
+        "type": "shows",
+        "id": "shows/2453",
+        "title": "موسم الرياض : كايروكي و أخرس و زاب ثروت و ساري هاني",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/shows/2453/موسم-الرياض-كايروكي-و-أخرس-و-زاب-ثروت-و-ساري-هاني",
+        "rating": "5.8/10",
+        "img": "https://img.akwam.link/uploads/rQeFc.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7919",
+        "title": "Black Warrant",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7919/black-warrant",
+        "rating": "6.7/10",
+        "img": "https://img.akwam.link/uploads/QK5IP.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7918",
+        "title": "Avatar: The Deep Dive -- A Special Edition of 20/20",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7918/avatar-the-deep-dive-a-special-edition-of-20-20",
+        "rating": "6.6/10",
+        "img": "https://img.akwam.link/uploads/GQGWt.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/3915",
+        "title": "Night Court الموسم الاول",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3915/night-court-الموسم-الاول",
+        "rating": "6.2/10",
+        "img": "https://img.akwam.link/uploads/irvjj.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7917",
+        "title": "King",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/7917/king",
+        "rating": "5.2/10",
+        "img": "https://img.akwam.link/uploads/9ch4N.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7916",
+        "title": "The Falling World",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7916/the-falling-world",
+        "rating": "6.1/10",
+        "img": "https://img.akwam.link/uploads/X8ZhF.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7915",
+        "title": "King Shakir Recycle",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7915/king-shakir-recycle",
+        "rating": "6.0/10",
+        "img": "https://img.akwam.link/uploads/My8Sl.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7914",
+        "title": "There's Something Wrong with the Children",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7914/there-s-something-wrong-with-the-children",
+        "rating": "5.1/10",
+        "img": "https://img.akwam.link/uploads/aHDAz.jpg"
+    },
+    {
         "type": "series",
         "id": "series/3914",
         "title": "خفايا القلوب الموسم الثاني",
@@ -412,131 +538,5 @@
         "url": "https://akwam.to/movie/7888/disconnect-the-wedding-planner",
         "rating": "5.5/10",
         "img": "https://img.akwam.link/uploads/bKm5I.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7887",
-        "title": "Dog Gone",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7887/dog-gone",
-        "rating": "4.9/10",
-        "img": "https://img.akwam.link/uploads/RlAB7.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3899",
-        "title": "Hunters الموسم الثاني",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3899/hunters-الموسم-الثاني",
-        "rating": "7.2/10",
-        "img": "https://img.akwam.link/uploads/A0uRd.jpg"
-    },
-    {
-        "type": "shows",
-        "id": "shows/2446",
-        "title": "AEW Dynamite 2023.01.11",
-        "quality": "WebRip",
-        "url": "https://akwam.to/shows/2446/aew-dynamite-2023-01-11",
-        "rating": "5.8/10",
-        "img": "https://img.akwam.link/uploads/5kjgq.jpg"
-    },
-    {
-        "type": "shows",
-        "id": "shows/2445",
-        "title": "WWE NXT 2023.01.10",
-        "quality": "HDTV",
-        "url": "https://akwam.to/shows/2445/wwe-nxt 2023-01-10",
-        "rating": "6.0/10",
-        "img": "https://img.akwam.link/uploads/VYt7N.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3898",
-        "title": "دكة العبيد",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3898/دكة-العبيد",
-        "rating": "6.5/10",
-        "img": "https://img.akwam.link/uploads/CKzFN.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7886",
-        "title": "Life is Beautiful",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7886/life-is-beautiful",
-        "rating": "6.8/10",
-        "img": "https://img.akwam.link/uploads/o8god.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7885",
-        "title": "M3GAN",
-        "quality": "CAM",
-        "url": "https://akwam.to/movie/7885/m3gan",
-        "rating": "6.7/10",
-        "img": "https://img.akwam.link/uploads/uAZ6m.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3897",
-        "title": "Velma الموسم الاول",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3897/velma-الموسم-الاول-1",
-        "rating": "2.5/10",
-        "img": "https://img.akwam.link/uploads/wxGIE.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3896",
-        "title": "The Makanai Cooking for the Maiko House الموسم الاول",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3896/the-makanai-cooking-for-the-maiko-house-الموسم-الاول",
-        "rating": "5.5/10",
-        "img": "https://img.akwam.link/uploads/A8jTa.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3895",
-        "title": "Kung Fu Panda: The Dragon Knight الموسم الثاني",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3895/kung-fu-panda-the-dragon-knight-الموسم-الثاني",
-        "rating": "5.9/10",
-        "img": "https://img.akwam.link/uploads/9pk9O.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3894",
-        "title": "Vikings: Valhalla الموسم الثاني",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3894/vikings-valhalla-الموسم-الثاني",
-        "rating": "7.2/10",
-        "img": "https://img.akwam.link/uploads/B0u5x.jpg"
-    },
-    {
-        "type": "shows",
-        "id": "shows/2444",
-        "title": "Chasing Waves",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/shows/2444/chasing-waves",
-        "rating": "6.3/10",
-        "img": "https://img.akwam.link/uploads/j9ePD.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3893",
-        "title": "حواجز مبعثرة",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3893/حواجز-مبعثرة",
-        "rating": "5.6/10",
-        "img": "https://img.akwam.link/uploads/LPWkt.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3892",
-        "title": "The Best Man The Final Chapters الموسم الاول",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3892/the-best-man-the-final-chapters-الموسم-الاول",
-        "rating": "8.3/10",
-        "img": "https://img.akwam.link/uploads/R6Sh2.jpg"
     }
 ]

@@ -1,6 +1,105 @@
 [
     {
         "type": "movie",
+        "id": "movie/7896",
+        "title": "Head Bush",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7896/head-bush",
+        "rating": "6.8/10",
+        "img": "https://img.akwam.link/uploads/7jQ2s.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7895",
+        "title": "Sick",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7895/sick",
+        "rating": "6.5/10",
+        "img": "https://img.akwam.link/uploads/DfQZw.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7894",
+        "title": "كوستا برافا، لبنان",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7894/كوستا-برافا-لبنان",
+        "rating": "3.9/10",
+        "img": "https://img.akwam.link/uploads/g7U5v.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7890",
+        "title": "Stealing Raden Saleh",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7890/stealing-raden-saleh",
+        "rating": "7.7/10",
+        "img": "https://img.akwam.link/uploads/u7iDA.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7889",
+        "title": "The Old Way",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7889/the-old-way",
+        "rating": "6.1/10",
+        "img": "https://img.akwam.link/uploads/GN8N3.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7887",
+        "title": "Dog Gone",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7887/dog-gone",
+        "rating": "4.9/10",
+        "img": "https://img.akwam.link/uploads/RlAB7.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7888",
+        "title": "Disconnect: The Wedding Planner",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7888/disconnect-the-wedding-planner",
+        "rating": "5.5/10",
+        "img": "https://img.akwam.link/uploads/bKm5I.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7892",
+        "title": "The Flagmakers",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7892/the-flagmakers",
+        "rating": "7.0/10",
+        "img": "https://img.akwam.link/uploads/OAqBr.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7893",
+        "title": "Retrograde",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7893/retrograde",
+        "rating": "7.3/10",
+        "img": "https://img.akwam.link/uploads/uHRoB.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7891",
+        "title": "The Territory",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7891/the-territory",
+        "rating": "7.6/10",
+        "img": "https://img.akwam.link/uploads/ngUIx.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7886",
+        "title": "Life is Beautiful",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7886/life-is-beautiful",
+        "rating": "6.8/10",
+        "img": "https://img.akwam.link/uploads/o8god.jpg"
+    },
+    {
+        "type": "movie",
         "id": "movie/7885",
         "title": "M3GAN",
         "quality": "CAM",
@@ -172,102 +271,102 @@
     },
     {
         "type": "movie",
-        "id": "movie/7786",
-        "title": "بيكيا",
+        "id": "movie/7922",
+        "title": "الهيبة : الفيلم",
         "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7786/بيكيا",
-        "rating": "5.6/10",
-        "img": "https://img.akwam.link/uploads/BkBCN.jpg"
+        "url": "https://akwam.to/movie/7922/الهيبة-الفيلم",
+        "rating": "6.0/10",
+        "img": "https://img.akwam.link/uploads/R5TkP.jpg"
     },
     {
         "type": "movie",
-        "id": "movie/7785",
-        "title": "الكبار",
+        "id": "movie/7923",
+        "title": "Inspector Sun and the Curse of the Black Widow",
         "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7785/الكبار",
+        "url": "https://akwam.to/movie/7923/inspector-sun-and-the-curse-of-the-black-widow",
+        "rating": "5.9/10",
+        "img": "https://img.akwam.link/uploads/dB3JJ.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7784",
+        "title": "Play Dead",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7784/play-dead",
+        "rating": "6.2/10",
+        "img": "https://img.akwam.link/uploads/ighU5.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7921",
+        "title": "Ballabhpurer Roopkotha",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7921/ballabhpurer-roopkotha",
+        "rating": "8.5/10",
+        "img": "https://img.akwam.link/uploads/4gqvf.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7920",
+        "title": "Gulu Gulu",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7920/gulu-gulu",
+        "rating": "6.0/10",
+        "img": "https://img.akwam.link/uploads/t0vlD.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7919",
+        "title": "Black Warrant",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7919/black-warrant",
+        "rating": "6.7/10",
+        "img": "https://img.akwam.link/uploads/QK5IP.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7918",
+        "title": "Avatar: The Deep Dive -- A Special Edition of 20/20",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7918/avatar-the-deep-dive-a-special-edition-of-20-20",
+        "rating": "6.6/10",
+        "img": "https://img.akwam.link/uploads/GQGWt.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7917",
+        "title": "King",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/7917/king",
+        "rating": "5.2/10",
+        "img": "https://img.akwam.link/uploads/9ch4N.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7916",
+        "title": "The Falling World",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7916/the-falling-world",
         "rating": "6.1/10",
-        "img": "https://img.akwam.link/uploads/Vqi8P.jpg"
+        "img": "https://img.akwam.link/uploads/X8ZhF.jpg"
     },
     {
         "type": "movie",
-        "id": "movie/7877",
-        "title": "Detective Chen",
+        "id": "movie/7915",
+        "title": "King Shakir Recycle",
         "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7877/detective-chen",
-        "rating": "6.5/10",
-        "img": "https://img.akwam.link/uploads/DS1D9.jpg"
+        "url": "https://akwam.to/movie/7915/king-shakir-recycle",
+        "rating": "6.0/10",
+        "img": "https://img.akwam.link/uploads/My8Sl.jpg"
     },
     {
         "type": "movie",
-        "id": "movie/7876",
-        "title": "The Killing Angels",
+        "id": "movie/7914",
+        "title": "There's Something Wrong with the Children",
         "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7876/the-killing-angels",
-        "rating": "5.5/10",
-        "img": "https://img.akwam.link/uploads/HgQyf.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7875",
-        "title": "Beautiful Beings",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7875/beautiful-beings",
-        "rating": "7.8/10",
-        "img": "https://img.akwam.link/uploads/cObVX.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7874",
-        "title": "Candy Land",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7874/candy-land",
-        "rating": "6.8/10",
-        "img": "https://img.akwam.link/uploads/CKidN.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7872",
-        "title": "Eo",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7872/eo",
-        "rating": "7.0/10",
-        "img": "https://img.akwam.link/uploads/ZYZA6.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7871",
-        "title": "سونيك القنفذ 2",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7871/سونيك-القنفذ-2",
-        "rating": "6.5/10",
-        "img": "https://img.akwam.link/uploads/4owxL.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7870",
-        "title": "Sinphony",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7870/sinphony",
-        "rating": "3.8/10",
-        "img": "https://img.akwam.link/uploads/EoUSD.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7867",
-        "title": "Plurality",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7867/plurality",
-        "rating": "5.6/10",
-        "img": "https://img.akwam.link/uploads/QCB5w.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7864",
-        "title": "Godland",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7864/godland",
-        "rating": "7.3/10",
-        "img": "https://img.akwam.link/uploads/xU2z4.jpg"
+        "url": "https://akwam.to/movie/7914/there-s-something-wrong-with-the-children",
+        "rating": "5.1/10",
+        "img": "https://img.akwam.link/uploads/aHDAz.jpg"
     },
     {
         "type": "movie",
@@ -439,104 +538,5 @@
         "url": "https://akwam.to/movie/7897/cheppalani-undhi",
         "rating": "8.6/10",
         "img": "https://img.akwam.link/uploads/pKHnI.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7896",
-        "title": "Head Bush",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7896/head-bush",
-        "rating": "6.8/10",
-        "img": "https://img.akwam.link/uploads/7jQ2s.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7895",
-        "title": "Sick",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7895/sick",
-        "rating": "6.5/10",
-        "img": "https://img.akwam.link/uploads/DfQZw.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7894",
-        "title": "كوستا برافا، لبنان",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7894/كوستا-برافا-لبنان",
-        "rating": "3.9/10",
-        "img": "https://img.akwam.link/uploads/g7U5v.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7890",
-        "title": "Stealing Raden Saleh",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7890/stealing-raden-saleh",
-        "rating": "7.7/10",
-        "img": "https://img.akwam.link/uploads/u7iDA.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7889",
-        "title": "The Old Way",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7889/the-old-way",
-        "rating": "6.1/10",
-        "img": "https://img.akwam.link/uploads/GN8N3.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7887",
-        "title": "Dog Gone",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7887/dog-gone",
-        "rating": "4.9/10",
-        "img": "https://img.akwam.link/uploads/RlAB7.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7888",
-        "title": "Disconnect: The Wedding Planner",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7888/disconnect-the-wedding-planner",
-        "rating": "5.5/10",
-        "img": "https://img.akwam.link/uploads/bKm5I.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7892",
-        "title": "The Flagmakers",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7892/the-flagmakers",
-        "rating": "7.0/10",
-        "img": "https://img.akwam.link/uploads/OAqBr.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7893",
-        "title": "Retrograde",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7893/retrograde",
-        "rating": "7.3/10",
-        "img": "https://img.akwam.link/uploads/uHRoB.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7891",
-        "title": "The Territory",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7891/the-territory",
-        "rating": "7.6/10",
-        "img": "https://img.akwam.link/uploads/ngUIx.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7886",
-        "title": "Life is Beautiful",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7886/life-is-beautiful",
-        "rating": "6.8/10",
-        "img": "https://img.akwam.link/uploads/o8god.jpg"
     }
 ]
