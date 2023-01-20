@@ -1,5 +1,131 @@
 [
     {
+        "type": "series",
+        "id": "series/3920",
+        "title": "ايه جابك عند جارك الموسم السادس عشر",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3920/ايه-جابك-عند-جارك-الموسم-السادس-عشر",
+        "rating": "8.7/10",
+        "img": "https://img.akwam.link/uploads/EiKBN.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7933",
+        "title": "Extras for Chasing The Dragon",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7933/extras-for-chasing-the-dragon",
+        "rating": "6.0/10",
+        "img": "https://img.akwam.link/uploads/aBARx.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7932",
+        "title": "House Party",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7932/house-party",
+        "rating": "4.6/10",
+        "img": "https://img.akwam.link/uploads/yIUmX.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7931",
+        "title": "Kaapa",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7931/kaapa",
+        "rating": "7.0/10",
+        "img": "https://img.akwam.link/uploads/q3714.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7930",
+        "title": "Naai Sekar Returns",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7930/naai-sekar-returns",
+        "rating": "4.3/10",
+        "img": "https://img.akwam.link/uploads/0NbnZ.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7929",
+        "title": "Cop Secret",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7929/cop-secret",
+        "rating": "6.2/10",
+        "img": "https://img.akwam.link/uploads/hPQIQ.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7928",
+        "title": "Seriously Red",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7928/seriously-red",
+        "rating": "5.1/10",
+        "img": "https://img.akwam.link/uploads/4RoUw.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/3919",
+        "title": "Junji Ito Maniac: Japanese Tales of the Macabre الموسم الاول",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3919/junji-ito-maniac-japanese-tales-of-the-macabre-الموسم-الاول",
+        "rating": "7.8/10",
+        "img": "https://img.akwam.link/uploads/Wrr1E.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/3918",
+        "title": "That '90s Show الموسم الاول",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3918/that-90s-show-الموسم-الاول",
+        "rating": "6.7/10",
+        "img": "https://img.akwam.link/uploads/qrzDs.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/3917",
+        "title": "Women at War الموسم الاول",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3917/women-at-war-الموسم-الاول",
+        "rating": "7.0/10",
+        "img": "https://img.akwam.link/uploads/jADJR.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7927",
+        "title": "The Price We Pay",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7927/the-price-we-pay",
+        "rating": "5.4/10",
+        "img": "https://img.akwam.link/uploads/GszT3.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7926",
+        "title": "Whina",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7926/whina",
+        "rating": "7.8/10",
+        "img": "https://img.akwam.link/uploads/baOMw.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7925",
+        "title": "الخلاط",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7925/الخلاط",
+        "rating": "5.5/10",
+        "img": "https://img.akwam.link/uploads/4U5Rz.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7924",
+        "title": "غدوة",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7924/غدوة",
+        "rating": "6.4/10",
+        "img": "https://img.akwam.link/uploads/doMGj.jpg"
+    },
+    {
         "type": "movie",
         "id": "movie/7923",
         "title": "Inspector Sun and the Curse of the Black Widow",
@@ -11,9 +137,9 @@
     {
         "type": "movie",
         "id": "movie/7922",
-        "title": "الهيبة : الفيلم",
+        "title": "فيلم الهيبة",
         "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7922/الهيبة-الفيلم",
+        "url": "https://akwam.to/movie/7922/فيلم-الهيبة",
         "rating": "6.0/10",
         "img": "https://img.akwam.link/uploads/R5TkP.jpg"
     },
@@ -412,131 +538,5 @@
         "url": "https://akwam.to/movie/7895/sick",
         "rating": "6.5/10",
         "img": "https://img.akwam.link/uploads/DfQZw.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7894",
-        "title": "كوستا برافا، لبنان",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7894/كوستا-برافا-لبنان",
-        "rating": "3.9/10",
-        "img": "https://img.akwam.link/uploads/g7U5v.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3906",
-        "title": "Servant الموسم الرابع",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3906/servant-الموسم-الرابع",
-        "rating": "7.5/10",
-        "img": "https://img.akwam.link/uploads/yBepm.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3905",
-        "title": "Your Honor الموسم الثاني",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3905/your-honor-الموسم-الثاني",
-        "rating": "7.6/10",
-        "img": "https://img.akwam.link/uploads/7mLzO.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3904",
-        "title": "Sky Rojo الموسم الثالث",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3904/sky-rojo-الموسم-الثالث",
-        "rating": "6.5/10",
-        "img": "https://img.akwam.link/uploads/2b8My.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3903",
-        "title": "Trial by Fire الموسم الاول",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3903/trial-by-fire-الموسم-الاول-1",
-        "rating": "8.5/10",
-        "img": "https://img.akwam.link/uploads/cLNUF.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3902",
-        "title": "الغواصة ياكاموز S-245",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3902/الغواصة-ياكاموز-s-245",
-        "rating": "6.1/10",
-        "img": "https://img.akwam.link/uploads/65Si2.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7893",
-        "title": "Retrograde",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7893/retrograde",
-        "rating": "7.3/10",
-        "img": "https://img.akwam.link/uploads/uHRoB.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7892",
-        "title": "The Flagmakers",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7892/the-flagmakers",
-        "rating": "7.0/10",
-        "img": "https://img.akwam.link/uploads/OAqBr.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7891",
-        "title": "The Territory",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7891/the-territory",
-        "rating": "7.6/10",
-        "img": "https://img.akwam.link/uploads/ngUIx.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7890",
-        "title": "Stealing Raden Saleh",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7890/stealing-raden-saleh",
-        "rating": "7.7/10",
-        "img": "https://img.akwam.link/uploads/u7iDA.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3901",
-        "title": "أرواح مسروقة",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3901/أرواح-مسروقة",
-        "rating": "6.9/10",
-        "img": "https://img.akwam.link/uploads/mScF1.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3900",
-        "title": "أميرة بلا تاج",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3900/أميرة-بلا-تاج",
-        "rating": "9.0/10",
-        "img": "https://img.akwam.link/uploads/VVVNC.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7889",
-        "title": "The Old Way",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7889/the-old-way",
-        "rating": "6.1/10",
-        "img": "https://img.akwam.link/uploads/GN8N3.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7888",
-        "title": "Disconnect: The Wedding Planner",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7888/disconnect-the-wedding-planner",
-        "rating": "5.5/10",
-        "img": "https://img.akwam.link/uploads/bKm5I.jpg"
     }
 ]
