@@ -1,6 +1,105 @@
 [
     {
         "type": "movie",
+        "id": "movie/7944",
+        "title": "The Offering",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7944/the-offering",
+        "rating": "5.4/10",
+        "img": "https://img.akwam.link/uploads/WMTzt.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7943",
+        "title": "Chhatriwali",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7943/chhatriwali",
+        "rating": "5.5/10",
+        "img": "https://img.akwam.link/uploads/XKfDg.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7942",
+        "title": "Attack of the 50 Foot CamGirl",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/7942/attack-of-the-50-foot-camgirl",
+        "rating": "4.4/10",
+        "img": "https://img.akwam.link/uploads/ButQD.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7941",
+        "title": "Mission Majnu",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7941/mission-majnu",
+        "rating": "9.0/10",
+        "img": "https://img.akwam.link/uploads/73NjJ.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7940",
+        "title": "Jung_E",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7940/jung_e",
+        "rating": "6.9/10",
+        "img": "https://img.akwam.link/uploads/HOYzD.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7939",
+        "title": "Detective Knight: Independence",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7939/detective-knight-independence",
+        "rating": "5.0/10",
+        "img": "https://img.akwam.link/uploads/5znaQ.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7938",
+        "title": "Plane",
+        "quality": "CAM",
+        "url": "https://akwam.to/movie/7938/plane",
+        "rating": "6.9/10",
+        "img": "https://img.akwam.link/uploads/3kfsA.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7937",
+        "title": "Mega Lightning",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7937/mega-lightning",
+        "rating": "5.5/10",
+        "img": "https://img.akwam.link/uploads/ktg0I.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7936",
+        "title": "Wog Boys Forever",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7936/wog-boys-forever",
+        "rating": "5.5/10",
+        "img": "https://img.akwam.link/uploads/t3dtn.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7935",
+        "title": "Transfusion",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7935/transfusion",
+        "rating": "7.1/10",
+        "img": "https://img.akwam.link/uploads/cNCnV.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7934",
+        "title": "ضيوف شرف",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7934/ضيوف-شرف",
+        "rating": "5.5/10",
+        "img": "https://img.akwam.link/uploads/D2mDF.jpg"
+    },
+    {
+        "type": "movie",
         "id": "movie/7933",
         "title": "Extras for Chasing The Dragon",
         "quality": "WEB-DL",
@@ -121,7 +220,7 @@
         "id": "movie/7921",
         "title": "Ballabhpurer Roopkotha",
         "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7921/ballabhpurer-roopkotha",
+        "url": "https://akwam.to/movie/7921/ballabhpurer-roopkotha-1",
         "rating": "8.5/10",
         "img": "https://img.akwam.link/uploads/4gqvf.jpg"
     },
@@ -439,104 +538,5 @@
         "url": "https://akwam.to/movie/7893/retrograde",
         "rating": "7.3/10",
         "img": "https://img.akwam.link/uploads/uHRoB.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7891",
-        "title": "The Territory",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7891/the-territory",
-        "rating": "7.6/10",
-        "img": "https://img.akwam.link/uploads/ngUIx.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7886",
-        "title": "Life is Beautiful",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7886/life-is-beautiful",
-        "rating": "6.8/10",
-        "img": "https://img.akwam.link/uploads/o8god.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7885",
-        "title": "M3GAN",
-        "quality": "CAM",
-        "url": "https://akwam.to/movie/7885/m3gan",
-        "rating": "6.7/10",
-        "img": "https://img.akwam.link/uploads/uAZ6m.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7884",
-        "title": "Arsenault and Fils",
-        "quality": "BluRay",
-        "url": "https://akwam.to/movie/7884/arsenault-and-fils",
-        "rating": "6.7/10",
-        "img": "https://img.akwam.link/uploads/J0ZN7.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7883",
-        "title": "Rite of the Shaman",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7883/rite-of-the-shaman",
-        "rating": "7.9/10",
-        "img": "https://img.akwam.link/uploads/PvJ6Z.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7882",
-        "title": "The Leech",
-        "quality": "BluRay",
-        "url": "https://akwam.to/movie/7882/the-leech",
-        "rating": "5.6/10",
-        "img": "https://img.akwam.link/uploads/loGLo.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7881",
-        "title": "Noise",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7881/noise",
-        "rating": "5.7/10",
-        "img": "https://img.akwam.link/uploads/mqpbS.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7880",
-        "title": "Sadistic: The Exorcism of Lily Deckert",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7880/sadistic-the-exorcism-of-lily-deckert",
-        "rating": "2.0/10",
-        "img": "https://img.akwam.link/uploads/YRGGj.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7879",
-        "title": "Family History Mysteries: Buried Past",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7879/family-history-mysteries-buried-past",
-        "rating": "7.4/10",
-        "img": "https://img.akwam.link/uploads/nqXQw.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7878",
-        "title": "Utama",
-        "quality": "BluRay",
-        "url": "https://akwam.to/movie/7878/utama",
-        "rating": "7.6/10",
-        "img": "https://img.akwam.link/uploads/VX0Lg.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7788",
-        "title": "الخلبوص",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7788/الخلبوص",
-        "rating": "4.7/10",
-        "img": "https://img.akwam.link/uploads/fdPDg.jpg"
     }
 ]

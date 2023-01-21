@@ -1,5 +1,176 @@
 [
     {
+        "type": "shows",
+        "id": "shows/2455",
+        "title": "AEW Dynamite 2023.01.18",
+        "quality": "HDTV",
+        "url": "https://akwam.to/shows/2455/aew-dynamite-2023-01-18",
+        "rating": "5.8/10",
+        "img": "https://img.akwam.link/uploads/5kjgq.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7944",
+        "title": "The Offering",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7944/the-offering",
+        "rating": "5.4/10",
+        "img": "https://img.akwam.link/uploads/WMTzt.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7943",
+        "title": "Chhatriwali",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7943/chhatriwali",
+        "rating": "5.5/10",
+        "img": "https://img.akwam.link/uploads/XKfDg.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/3927",
+        "title": "Fauda الموسم الرابع",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3927/fauda-الموسم-الرابع",
+        "rating": "8.2/10",
+        "img": "https://img.akwam.link/uploads/RQern.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/3926",
+        "title": "Shanty Town الموسم الاول",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3926/shanty-town-الموسم-الاول",
+        "rating": "6.2/10",
+        "img": "https://img.akwam.link/uploads/F0YuH.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/3925",
+        "title": "Represent الموسم الاول",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3925/represent-الموسم-الاول",
+        "rating": "6.2/10",
+        "img": "https://img.akwam.link/uploads/d2KYl.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7942",
+        "title": "Attack of the 50 Foot CamGirl",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/7942/attack-of-the-50-foot-camgirl",
+        "rating": "4.4/10",
+        "img": "https://img.akwam.link/uploads/ButQD.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7941",
+        "title": "Mission Majnu",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7941/mission-majnu",
+        "rating": "9.0/10",
+        "img": "https://img.akwam.link/uploads/73NjJ.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7940",
+        "title": "Jung_E",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7940/jung_e",
+        "rating": "6.9/10",
+        "img": "https://img.akwam.link/uploads/HOYzD.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7939",
+        "title": "Detective Knight: Independence",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7939/detective-knight-independence",
+        "rating": "5.0/10",
+        "img": "https://img.akwam.link/uploads/5znaQ.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7938",
+        "title": "Plane",
+        "quality": "CAM",
+        "url": "https://akwam.to/movie/7938/plane",
+        "rating": "6.9/10",
+        "img": "https://img.akwam.link/uploads/3kfsA.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/3924",
+        "title": "شاهماران الموسم الاول",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3924/شاهماران-الموسم-الاول",
+        "rating": "8.0/10",
+        "img": "https://img.akwam.link/uploads/Gshtx.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/3923",
+        "title": "Sahmaran الموسم الاول",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3923/sahmaran-الموسم-الاول",
+        "rating": "8.0/10",
+        "img": "https://img.akwam.link/uploads/3LhoH.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7937",
+        "title": "Mega Lightning",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7937/mega-lightning",
+        "rating": "5.5/10",
+        "img": "https://img.akwam.link/uploads/ktg0I.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7936",
+        "title": "Wog Boys Forever",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7936/wog-boys-forever",
+        "rating": "5.5/10",
+        "img": "https://img.akwam.link/uploads/t3dtn.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7935",
+        "title": "Transfusion",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7935/transfusion",
+        "rating": "7.1/10",
+        "img": "https://img.akwam.link/uploads/cNCnV.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7934",
+        "title": "ضيوف شرف",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7934/ضيوف-شرف",
+        "rating": "5.5/10",
+        "img": "https://img.akwam.link/uploads/D2mDF.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/3922",
+        "title": "The Legend of Vox Machina الموسم الثاني",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3922/the-legend-of-vox-machina-الموسم-الثاني",
+        "rating": "8.4/10",
+        "img": "https://img.akwam.link/uploads/XFRep.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/3921",
+        "title": "Truth Be Told الموسم الثالث",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3921/truth-be-told-الموسم-الثالث",
+        "rating": "7.1/10",
+        "img": "https://img.akwam.link/uploads/Keudg.jpg"
+    },
+    {
         "type": "series",
         "id": "series/3920",
         "title": "ايه جابك عند جارك الموسم السادس عشر",
@@ -157,7 +328,7 @@
         "id": "movie/7921",
         "title": "Ballabhpurer Roopkotha",
         "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7921/ballabhpurer-roopkotha",
+        "url": "https://akwam.to/movie/7921/ballabhpurer-roopkotha-1",
         "rating": "8.5/10",
         "img": "https://img.akwam.link/uploads/4gqvf.jpg"
     },
@@ -367,176 +538,5 @@
         "url": "https://akwam.to/movie/7904/out-of-office",
         "rating": "5.1/10",
         "img": "https://img.akwam.link/uploads/hNcaG.jpg"
-    },
-    {
-        "type": "shows",
-        "id": "shows/2452",
-        "title": "WWE Monday Night Raw 2023.01.16",
-        "quality": "HDTV",
-        "url": "https://akwam.to/shows/2452/wwe-monday-night-raw-2023-01-16",
-        "rating": "6.2/10",
-        "img": "https://img.akwam.link/uploads/CIZ4J.jpg"
-    },
-    {
-        "type": "shows",
-        "id": "shows/2451",
-        "title": "Pele Long Live The King",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/shows/2451/pele-long-live-the-king",
-        "rating": "6.2/10",
-        "img": "https://img.akwam.link/uploads/6Bqlq.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7903",
-        "title": "Mister Mummy",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7903/mister-mummy",
-        "rating": "2.1/10",
-        "img": "https://img.akwam.link/uploads/sBWhN.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7902",
-        "title": "Laththi",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7902/laththi",
-        "rating": "7.3/10",
-        "img": "https://img.akwam.link/uploads/bAMTd.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7901",
-        "title": "Varalaru Mukkiyam",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7901/varalaru-mukkiyam",
-        "rating": "5.8/10",
-        "img": "https://img.akwam.link/uploads/7hF8J.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7900",
-        "title": "Korameenu",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7900/korameenu",
-        "rating": "8.0/10",
-        "img": "https://img.akwam.link/uploads/qo0NW.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7899",
-        "title": "Chile ’76",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7899/chile-76",
-        "rating": "6.7/10",
-        "img": "https://img.akwam.link/uploads/lbvjP.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7898",
-        "title": "The Drop",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7898/the-drop",
-        "rating": "4.3/10",
-        "img": "https://img.akwam.link/uploads/SNJkG.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3911",
-        "title": "The Last of Us الموسم الاول",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3911/the-last-of-us-الموسم-الاول",
-        "rating": "9.7/10",
-        "img": "https://img.akwam.link/uploads/HER1I.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3910",
-        "title": "أولاد عابد",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3910/أولاد-عابد",
-        "rating": "6.8/10",
-        "img": "https://img.akwam.link/uploads/ZDv3v.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3909",
-        "title": "Godfather of Harlem الموسم الثالث",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3909/godfather-of-harlem-الموسم-الثالث",
-        "rating": "8.1/10",
-        "img": "https://img.akwam.link/uploads/sA79G.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3908",
-        "title": "Mayor of Kingstown الموسم الثاني",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3908/mayor-of-kingstown-الموسم-الثاني",
-        "rating": "8.2/10",
-        "img": "https://img.akwam.link/uploads/vy1k5.jpg"
-    },
-    {
-        "type": "shows",
-        "id": "shows/2450",
-        "title": "AEW Rampage 2023.01.13",
-        "quality": "WebRip",
-        "url": "https://akwam.to/shows/2450/aew-rampage-2023-01-13",
-        "rating": "6.1/10",
-        "img": "https://img.akwam.link/uploads/xbGwc.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3907",
-        "title": "Ates Kuslari الموسم الاول",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3907/ates-kuslari-الموسم-الاول",
-        "rating": "6.4/10",
-        "img": "https://img.akwam.link/uploads/QAzfM.jpg"
-    },
-    {
-        "type": "shows",
-        "id": "shows/2449",
-        "title": "WWE Friday Night Smackdown 2023.01.13",
-        "quality": "HDTV",
-        "url": "https://akwam.to/shows/2449/wwe-friday-night-smackdown-2023-01-13",
-        "rating": "5.9/10",
-        "img": "https://img.akwam.link/uploads/tLD7p.jpg"
-    },
-    {
-        "type": "shows",
-        "id": "shows/2447",
-        "title": "الدوم الموسم الثاني",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/shows/2447/الدوم-الموسم-الثاني",
-        "rating": "6.1/10",
-        "img": "https://img.akwam.link/uploads/mX4ML.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7897",
-        "title": "Cheppalani Undhi",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7897/cheppalani-undhi",
-        "rating": "8.6/10",
-        "img": "https://img.akwam.link/uploads/pKHnI.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7896",
-        "title": "Head Bush",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7896/head-bush",
-        "rating": "6.8/10",
-        "img": "https://img.akwam.link/uploads/7jQ2s.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7895",
-        "title": "Sick",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7895/sick",
-        "rating": "6.5/10",
-        "img": "https://img.akwam.link/uploads/DfQZw.jpg"
     }
 ]
