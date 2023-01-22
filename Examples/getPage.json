@@ -1,6 +1,78 @@
 [
     {
         "type": "shows",
+        "id": "shows/2460",
+        "title": "حفل جوائز صنّاع الترفيه الموسم 2023",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/shows/2460/حفل-جوائز-صناع-الترفيه-الموسم-2023",
+        "rating": "6.5/10",
+        "img": "https://img.akwam.link/uploads/EUwKT.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/3929",
+        "title": "حكايات جروب الماميز",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3929/حكايات-جروب-الماميز",
+        "rating": "6.8/10",
+        "img": "https://img.akwam.link/uploads/0UHTA.jpg"
+    },
+    {
+        "type": "shows",
+        "id": "shows/2459",
+        "title": "752Is Not a Number",
+        "quality": "WebRip",
+        "url": "https://akwam.to/shows/2459/752is-not-a-number",
+        "rating": "7.6/10",
+        "img": "https://img.akwam.link/uploads/vsyfW.jpg"
+    },
+    {
+        "type": "shows",
+        "id": "shows/2458",
+        "title": "Nazi Fugitives",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/shows/2458/nazi-fugitives",
+        "rating": "6.2/10",
+        "img": "https://img.akwam.link/uploads/V1Y5f.jpg"
+    },
+    {
+        "type": "shows",
+        "id": "shows/2457",
+        "title": "AEW Rampage 2023.01.20",
+        "quality": "WebRip",
+        "url": "https://akwam.to/shows/2457/aew-rampage-2023-01-20",
+        "rating": "5.5/10",
+        "img": "https://img.akwam.link/uploads/xbGwc.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7945",
+        "title": "فيلم 6/45",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7945/فيلم-6-45",
+        "rating": "7.0/10",
+        "img": "https://img.akwam.link/uploads/kJ5dK.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/3928",
+        "title": "نايرات",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3928/نايرات",
+        "rating": "5.5/10",
+        "img": "https://img.akwam.link/uploads/E1AU1.jpg"
+    },
+    {
+        "type": "shows",
+        "id": "shows/2456",
+        "title": "WWE Friday Night Smackdown 2023.01.20",
+        "quality": "WebRip",
+        "url": "https://akwam.to/shows/2456/wwe-friday-night-smackdown-2023-01-20",
+        "rating": "5.6/10",
+        "img": "https://img.akwam.link/uploads/tLD7p.jpg"
+    },
+    {
+        "type": "shows",
         "id": "shows/2455",
         "title": "AEW Dynamite 2023.01.18",
         "quality": "HDTV",
@@ -466,77 +538,5 @@
         "url": "https://akwam.to/movie/7910/quaid-e-azam-zindabad",
         "rating": "6.9/10",
         "img": "https://img.akwam.link/uploads/aI8Kb.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7909",
-        "title": "A Man Called Otto",
-        "quality": "CAM",
-        "url": "https://akwam.to/movie/7909/a-man-called-otto",
-        "rating": "7.5/10",
-        "img": "https://img.akwam.link/uploads/Ayv5p.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7908",
-        "title": "Battlebox",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7908/battlebox",
-        "rating": "5.5/10",
-        "img": "https://img.akwam.link/uploads/PsUt8.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7907",
-        "title": "Halloween Friends",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7907/halloween-friends",
-        "rating": "5.5/10",
-        "img": "https://img.akwam.link/uploads/VbiRB.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3913",
-        "title": "عالم تاني",
-        "quality": "HDTV",
-        "url": "https://akwam.to/series/3913/عالم-تاني",
-        "rating": "5.5/10",
-        "img": "https://img.akwam.link/uploads/kR4E6.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3912",
-        "title": "The Way Home الموسم الاول",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3912/the-way-home-الموسم-الاول",
-        "rating": "7.7/10",
-        "img": "https://img.akwam.link/uploads/Yh4Ez.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7906",
-        "title": "Operation Fortune: Ruse de guerre",
-        "quality": "CAM",
-        "url": "https://akwam.to/movie/7906/operation-fortune-ruse-de-guerre",
-        "rating": "6.7/10",
-        "img": "https://img.akwam.link/uploads/7UJw7.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7905",
-        "title": "Cheburashka",
-        "quality": "CAM",
-        "url": "https://akwam.to/movie/7905/cheburashka",
-        "rating": "6.3/10",
-        "img": "https://img.akwam.link/uploads/0aBO9.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7904",
-        "title": "Out of Office",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7904/out-of-office",
-        "rating": "5.1/10",
-        "img": "https://img.akwam.link/uploads/hNcaG.jpg"
     }
 ]
