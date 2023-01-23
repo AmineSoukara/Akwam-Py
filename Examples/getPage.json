@@ -1,5 +1,50 @@
 [
     {
+        "type": "series",
+        "id": "series/3930",
+        "title": "آخر عزوبي",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3930/آخر-عزوبي",
+        "rating": "5.9/10",
+        "img": "https://img.akwam.link/uploads/zQH0p.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7949",
+        "title": "The Last Client",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/7949/the-last-client",
+        "rating": "6.3/10",
+        "img": "https://img.akwam.link/uploads/7QcPG.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7948",
+        "title": "Icon",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7948/icon",
+        "rating": "6.8/10",
+        "img": "https://img.akwam.link/uploads/pZwXf.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7947",
+        "title": "The Post-Truth World",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7947/the-post-truth-world",
+        "rating": "6.8/10",
+        "img": "https://img.akwam.link/uploads/pSFL7.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7946",
+        "title": "B Cut",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7946/b-cut",
+        "rating": "6.3/10",
+        "img": "https://img.akwam.link/uploads/qzu8a.jpg"
+    },
+    {
         "type": "shows",
         "id": "shows/2460",
         "title": "حفل جوائز صنّاع الترفيه الموسم 2023",
@@ -86,7 +131,7 @@
         "title": "The Offering",
         "quality": "WEB-DL",
         "url": "https://akwam.to/movie/7944/the-offering",
-        "rating": "5.4/10",
+        "rating": "5.2/10",
         "img": "https://img.akwam.link/uploads/WMTzt.jpg"
     },
     {
@@ -127,15 +172,6 @@
     },
     {
         "type": "movie",
-        "id": "movie/7942",
-        "title": "Attack of the 50 Foot CamGirl",
-        "quality": "BluRay",
-        "url": "https://akwam.to/movie/7942/attack-of-the-50-foot-camgirl",
-        "rating": "4.4/10",
-        "img": "https://img.akwam.link/uploads/ButQD.jpg"
-    },
-    {
-        "type": "movie",
         "id": "movie/7941",
         "title": "Mission Majnu",
         "quality": "WEB-DL",
@@ -156,9 +192,9 @@
         "type": "movie",
         "id": "movie/7939",
         "title": "Detective Knight: Independence",
-        "quality": "WEB-DL",
+        "quality": "BluRay",
         "url": "https://akwam.to/movie/7939/detective-knight-independence",
-        "rating": "5.0/10",
+        "rating": "3.6/10",
         "img": "https://img.akwam.link/uploads/5znaQ.jpg"
     },
     {
@@ -493,50 +529,5 @@
         "url": "https://akwam.to/movie/7914/there-s-something-wrong-with-the-children",
         "rating": "5.1/10",
         "img": "https://img.akwam.link/uploads/aHDAz.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3914",
-        "title": "خفايا القلوب الموسم الثاني",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3914/خفايا-القلوب-الموسم-الثاني",
-        "rating": "6.1/10",
-        "img": "https://img.akwam.link/uploads/qvKqD.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7913",
-        "title": "Army Soul of Han Dynasty",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7913/army-soul-of-han-dynasty",
-        "rating": "5.5/10",
-        "img": "https://img.akwam.link/uploads/VxSOz.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7912",
-        "title": "Snow Falls",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7912/snow-falls",
-        "rating": "5.2/10",
-        "img": "https://img.akwam.link/uploads/A7lsv.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7911",
-        "title": "أمير الظلام",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7911/أمير-الظلام",
-        "rating": "6.2/10",
-        "img": "https://img.akwam.link/uploads/oU4fK.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7910",
-        "title": "Quaid-e-Azam Zindabad",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7910/quaid-e-azam-zindabad",
-        "rating": "6.9/10",
-        "img": "https://img.akwam.link/uploads/aI8Kb.jpg"
     }
 ]
