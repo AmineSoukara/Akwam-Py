@@ -1,213 +1,6 @@
 [
     {
         "type": "movie",
-        "id": "movie/7700",
-        "title": "Violent Night",
-        "quality": "BluRay",
-        "url": "https://akwam.to/movie/7700/violent-night",
-        "rating": "6.7/10",
-        "img": "https://img.akwam.link/uploads/6SRS2.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7949",
-        "title": "The Last Client",
-        "quality": "BluRay",
-        "url": "https://akwam.to/movie/7949/the-last-client",
-        "rating": "6.3/10",
-        "img": "https://img.akwam.link/uploads/7QcPG.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7948",
-        "title": "Icon",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7948/icon",
-        "rating": "6.8/10",
-        "img": "https://img.akwam.link/uploads/pZwXf.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7944",
-        "title": "The Offering",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7944/the-offering",
-        "rating": "5.2/10",
-        "img": "https://img.akwam.link/uploads/WMTzt.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7947",
-        "title": "The Post-Truth World",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7947/the-post-truth-world",
-        "rating": "6.8/10",
-        "img": "https://img.akwam.link/uploads/pSFL7.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7946",
-        "title": "B Cut",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7946/b-cut",
-        "rating": "6.3/10",
-        "img": "https://img.akwam.link/uploads/qzu8a.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7939",
-        "title": "Detective Knight: Independence",
-        "quality": "BluRay",
-        "url": "https://akwam.to/movie/7939/detective-knight-independence",
-        "rating": "3.6/10",
-        "img": "https://img.akwam.link/uploads/5znaQ.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7582",
-        "title": "Triangle of Sadness",
-        "quality": "BluRay",
-        "url": "https://akwam.to/movie/7582/triangle-of-sadness",
-        "rating": "7.5/10",
-        "img": "https://img.akwam.link/uploads/shi32.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7945",
-        "title": "فيلم 6/45",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7945/فيلم-6-45",
-        "rating": "7.0/10",
-        "img": "https://img.akwam.link/uploads/kJ5dK.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7943",
-        "title": "Chhatriwali",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7943/chhatriwali",
-        "rating": "5.5/10",
-        "img": "https://img.akwam.link/uploads/XKfDg.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7941",
-        "title": "Mission Majnu",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7941/mission-majnu",
-        "rating": "9.0/10",
-        "img": "https://img.akwam.link/uploads/73NjJ.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7940",
-        "title": "Jung_E",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7940/jung_e",
-        "rating": "6.9/10",
-        "img": "https://img.akwam.link/uploads/HOYzD.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7938",
-        "title": "Plane",
-        "quality": "CAM",
-        "url": "https://akwam.to/movie/7938/plane",
-        "rating": "6.9/10",
-        "img": "https://img.akwam.link/uploads/3kfsA.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7937",
-        "title": "Mega Lightning",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7937/mega-lightning",
-        "rating": "5.5/10",
-        "img": "https://img.akwam.link/uploads/ktg0I.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7936",
-        "title": "Wog Boys Forever",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7936/wog-boys-forever",
-        "rating": "5.5/10",
-        "img": "https://img.akwam.link/uploads/t3dtn.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7935",
-        "title": "Transfusion",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7935/transfusion",
-        "rating": "7.1/10",
-        "img": "https://img.akwam.link/uploads/cNCnV.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7934",
-        "title": "ضيوف شرف",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7934/ضيوف-شرف",
-        "rating": "5.5/10",
-        "img": "https://img.akwam.link/uploads/D2mDF.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7933",
-        "title": "Extras for Chasing The Dragon",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7933/extras-for-chasing-the-dragon",
-        "rating": "6.0/10",
-        "img": "https://img.akwam.link/uploads/aBARx.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7932",
-        "title": "House Party",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7932/house-party",
-        "rating": "4.6/10",
-        "img": "https://img.akwam.link/uploads/yIUmX.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7931",
-        "title": "Kaapa",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7931/kaapa",
-        "rating": "7.0/10",
-        "img": "https://img.akwam.link/uploads/q3714.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7930",
-        "title": "Naai Sekar Returns",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7930/naai-sekar-returns",
-        "rating": "4.3/10",
-        "img": "https://img.akwam.link/uploads/0NbnZ.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7929",
-        "title": "Cop Secret",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7929/cop-secret",
-        "rating": "6.2/10",
-        "img": "https://img.akwam.link/uploads/hPQIQ.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7928",
-        "title": "Seriously Red",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7928/seriously-red",
-        "rating": "5.1/10",
-        "img": "https://img.akwam.link/uploads/4RoUw.jpg"
-    },
-    {
-        "type": "movie",
         "id": "movie/7927",
         "title": "The Price We Pay",
         "quality": "WEB-DL",
@@ -274,7 +67,7 @@
         "id": "movie/7921",
         "title": "Ballabhpurer Roopkotha",
         "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7921/ballabhpurer-roopkotha-1",
+        "url": "https://akwam.to/movie/7921/ballabhpurer-roopkotha-2",
         "rating": "8.5/10",
         "img": "https://img.akwam.link/uploads/4gqvf.jpg"
     },
@@ -478,65 +271,272 @@
     },
     {
         "type": "movie",
-        "id": "movie/7669",
-        "title": "She Said",
+        "id": "movie/7956",
+        "title": "Sorry About the Demon",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7956/sorry-about-the-demon",
+        "rating": "4.9/10",
+        "img": "https://img.akwam.link/uploads/oYtHn.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7955",
+        "title": "Almighty Zeus",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7955/almighty-zeus",
+        "rating": "4.5/10",
+        "img": "https://img.akwam.link/uploads/syLu4.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7954",
+        "title": "Confessions",
         "quality": "BluRay",
-        "url": "https://akwam.to/movie/7669/she-said",
-        "rating": "7.2/10",
-        "img": "https://img.akwam.link/uploads/YxaYi.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7899",
-        "title": "Chile ’76",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7899/chile-76",
-        "rating": "6.7/10",
-        "img": "https://img.akwam.link/uploads/lbvjP.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7898",
-        "title": "The Drop",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7898/the-drop",
-        "rating": "4.3/10",
-        "img": "https://img.akwam.link/uploads/SNJkG.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7897",
-        "title": "Cheppalani Undhi",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7897/cheppalani-undhi",
-        "rating": "8.6/10",
-        "img": "https://img.akwam.link/uploads/pKHnI.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7896",
-        "title": "Head Bush",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7896/head-bush",
+        "url": "https://akwam.to/movie/7954/confessions",
         "rating": "6.8/10",
-        "img": "https://img.akwam.link/uploads/7jQ2s.jpg"
+        "img": "https://img.akwam.link/uploads/CF609.jpg"
     },
     {
         "type": "movie",
-        "id": "movie/7895",
-        "title": "Sick",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7895/sick",
-        "rating": "6.5/10",
-        "img": "https://img.akwam.link/uploads/DfQZw.jpg"
+        "id": "movie/7953",
+        "title": "The Black Spider",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/7953/the-black-spider",
+        "rating": "6.1/10",
+        "img": "https://img.akwam.link/uploads/VMoGJ.jpg"
     },
     {
         "type": "movie",
-        "id": "movie/7894",
-        "title": "كوستا برافا، لبنان",
+        "id": "movie/7952",
+        "title": "Narvik: Hitler’s First Defeat",
         "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7894/كوستا-برافا-لبنان",
-        "rating": "3.9/10",
-        "img": "https://img.akwam.link/uploads/g7U5v.jpg"
+        "url": "https://akwam.to/movie/7952/narvik-hitlers-first-defeat",
+        "rating": "7.0/10",
+        "img": "https://img.akwam.link/uploads/NzJwC.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7951",
+        "title": "Karan Arjun",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7951/karan-arjun",
+        "rating": "8.0/10",
+        "img": "https://img.akwam.link/uploads/VRQhC.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7950",
+        "title": "Dhamaka",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7950/dhamaka",
+        "rating": "7.9/10",
+        "img": "https://img.akwam.link/uploads/FEa67.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7700",
+        "title": "Violent Night",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/7700/violent-night",
+        "rating": "6.7/10",
+        "img": "https://img.akwam.link/uploads/6SRS2.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7949",
+        "title": "The Last Client",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/7949/the-last-client",
+        "rating": "6.3/10",
+        "img": "https://img.akwam.link/uploads/7QcPG.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7948",
+        "title": "Icon",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7948/icon",
+        "rating": "6.8/10",
+        "img": "https://img.akwam.link/uploads/pZwXf.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7944",
+        "title": "The Offering",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7944/the-offering",
+        "rating": "5.2/10",
+        "img": "https://img.akwam.link/uploads/WMTzt.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7947",
+        "title": "The Post-Truth World",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7947/the-post-truth-world",
+        "rating": "6.8/10",
+        "img": "https://img.akwam.link/uploads/pSFL7.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7946",
+        "title": "B Cut",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7946/b-cut",
+        "rating": "6.3/10",
+        "img": "https://img.akwam.link/uploads/qzu8a.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7939",
+        "title": "Detective Knight: Independence",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/7939/detective-knight-independence",
+        "rating": "3.6/10",
+        "img": "https://img.akwam.link/uploads/5znaQ.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7582",
+        "title": "Triangle of Sadness",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/7582/triangle-of-sadness",
+        "rating": "7.5/10",
+        "img": "https://img.akwam.link/uploads/shi32.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7945",
+        "title": "فيلم 6/45",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7945/فيلم-6-45",
+        "rating": "7.0/10",
+        "img": "https://img.akwam.link/uploads/kJ5dK.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7943",
+        "title": "Chhatriwali",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7943/chhatriwali",
+        "rating": "5.5/10",
+        "img": "https://img.akwam.link/uploads/XKfDg.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7941",
+        "title": "Mission Majnu",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7941/mission-majnu",
+        "rating": "9.0/10",
+        "img": "https://img.akwam.link/uploads/73NjJ.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7940",
+        "title": "Jung_E",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7940/jung_e",
+        "rating": "6.9/10",
+        "img": "https://img.akwam.link/uploads/HOYzD.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7938",
+        "title": "Plane",
+        "quality": "CAM",
+        "url": "https://akwam.to/movie/7938/plane",
+        "rating": "6.9/10",
+        "img": "https://img.akwam.link/uploads/3kfsA.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7937",
+        "title": "Mega Lightning",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7937/mega-lightning",
+        "rating": "5.5/10",
+        "img": "https://img.akwam.link/uploads/ktg0I.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7936",
+        "title": "Wog Boys Forever",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7936/wog-boys-forever",
+        "rating": "5.5/10",
+        "img": "https://img.akwam.link/uploads/t3dtn.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7935",
+        "title": "Transfusion",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7935/transfusion",
+        "rating": "7.1/10",
+        "img": "https://img.akwam.link/uploads/cNCnV.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7934",
+        "title": "ضيوف شرف",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7934/ضيوف-شرف-1",
+        "rating": "5.5/10",
+        "img": "https://img.akwam.link/uploads/D2mDF.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7933",
+        "title": "Extras for Chasing The Dragon",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7933/extras-for-chasing-the-dragon",
+        "rating": "6.0/10",
+        "img": "https://img.akwam.link/uploads/aBARx.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7932",
+        "title": "House Party",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7932/house-party",
+        "rating": "4.6/10",
+        "img": "https://img.akwam.link/uploads/yIUmX.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7931",
+        "title": "Kaapa",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7931/kaapa",
+        "rating": "7.0/10",
+        "img": "https://img.akwam.link/uploads/q3714.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7930",
+        "title": "Naai Sekar Returns",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7930/naai-sekar-returns",
+        "rating": "4.3/10",
+        "img": "https://img.akwam.link/uploads/0NbnZ.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7929",
+        "title": "Cop Secret",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7929/cop-secret",
+        "rating": "6.2/10",
+        "img": "https://img.akwam.link/uploads/hPQIQ.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7928",
+        "title": "Seriously Red",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7928/seriously-red",
+        "rating": "5.1/10",
+        "img": "https://img.akwam.link/uploads/4RoUw.jpg"
     }
 ]

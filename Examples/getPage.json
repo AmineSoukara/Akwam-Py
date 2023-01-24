@@ -1,5 +1,86 @@
 [
     {
+        "type": "movie",
+        "id": "movie/7956",
+        "title": "Sorry About the Demon",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7956/sorry-about-the-demon",
+        "rating": "4.9/10",
+        "img": "https://img.akwam.link/uploads/oYtHn.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7955",
+        "title": "Almighty Zeus",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7955/almighty-zeus",
+        "rating": "4.5/10",
+        "img": "https://img.akwam.link/uploads/syLu4.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7954",
+        "title": "Confessions",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/7954/confessions",
+        "rating": "6.8/10",
+        "img": "https://img.akwam.link/uploads/CF609.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7953",
+        "title": "The Black Spider",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/7953/the-black-spider",
+        "rating": "6.1/10",
+        "img": "https://img.akwam.link/uploads/VMoGJ.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7952",
+        "title": "Narvik: Hitler’s First Defeat",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7952/narvik-hitlers-first-defeat",
+        "rating": "7.0/10",
+        "img": "https://img.akwam.link/uploads/NzJwC.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7951",
+        "title": "Karan Arjun",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7951/karan-arjun",
+        "rating": "8.0/10",
+        "img": "https://img.akwam.link/uploads/VRQhC.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7950",
+        "title": "Dhamaka",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7950/dhamaka",
+        "rating": "7.9/10",
+        "img": "https://img.akwam.link/uploads/FEa67.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/3931",
+        "title": "Accused الموسم الاول",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3931/accused-الموسم-الاول",
+        "rating": "7.3/10",
+        "img": "https://img.akwam.link/uploads/FDffa.jpg"
+    },
+    {
+        "type": "shows",
+        "id": "shows/2461",
+        "title": "شاهين ليه",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/shows/2461/شاهين-ليه",
+        "rating": "6.8/10",
+        "img": "https://img.akwam.link/uploads/oeP4a.jpg"
+    },
+    {
         "type": "series",
         "id": "series/3930",
         "title": "آخر عزوبي",
@@ -256,7 +337,7 @@
         "id": "movie/7934",
         "title": "ضيوف شرف",
         "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7934/ضيوف-شرف",
+        "url": "https://akwam.to/movie/7934/ضيوف-شرف-1",
         "rating": "5.5/10",
         "img": "https://img.akwam.link/uploads/D2mDF.jpg"
     },
@@ -364,7 +445,7 @@
         "id": "series/3917",
         "title": "Women at War الموسم الاول",
         "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3917/women-at-war-الموسم-الاول",
+        "url": "https://akwam.to/series/3917/women-at-war-الموسم-الاول-1",
         "rating": "7.0/10",
         "img": "https://img.akwam.link/uploads/jADJR.jpg"
     },
@@ -436,7 +517,7 @@
         "id": "movie/7921",
         "title": "Ballabhpurer Roopkotha",
         "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7921/ballabhpurer-roopkotha-1",
+        "url": "https://akwam.to/movie/7921/ballabhpurer-roopkotha-2",
         "rating": "8.5/10",
         "img": "https://img.akwam.link/uploads/4gqvf.jpg"
     },
@@ -448,86 +529,5 @@
         "url": "https://akwam.to/movie/7920/gulu-gulu",
         "rating": "6.0/10",
         "img": "https://img.akwam.link/uploads/t0vlD.jpg"
-    },
-    {
-        "type": "shows",
-        "id": "shows/2454",
-        "title": "WWE NXT 2023.01.17",
-        "quality": "WebRip",
-        "url": "https://akwam.to/shows/2454/wwe-nxt 2023-01-17",
-        "rating": "5.3/10",
-        "img": "https://img.akwam.link/uploads/VYt7N.jpg"
-    },
-    {
-        "type": "shows",
-        "id": "shows/2453",
-        "title": "موسم الرياض : كايروكي و أخرس و زاب ثروت و ساري هاني",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/shows/2453/موسم-الرياض-كايروكي-و-أخرس-و-زاب-ثروت-و-ساري-هاني",
-        "rating": "5.8/10",
-        "img": "https://img.akwam.link/uploads/rQeFc.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7919",
-        "title": "Black Warrant",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7919/black-warrant",
-        "rating": "6.7/10",
-        "img": "https://img.akwam.link/uploads/QK5IP.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7918",
-        "title": "Avatar: The Deep Dive -- A Special Edition of 20/20",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7918/avatar-the-deep-dive-a-special-edition-of-20-20",
-        "rating": "6.6/10",
-        "img": "https://img.akwam.link/uploads/GQGWt.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3915",
-        "title": "Night Court الموسم الاول",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3915/night-court-الموسم-الاول",
-        "rating": "6.2/10",
-        "img": "https://img.akwam.link/uploads/irvjj.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7917",
-        "title": "King",
-        "quality": "BluRay",
-        "url": "https://akwam.to/movie/7917/king",
-        "rating": "5.2/10",
-        "img": "https://img.akwam.link/uploads/9ch4N.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7916",
-        "title": "The Falling World",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7916/the-falling-world",
-        "rating": "6.1/10",
-        "img": "https://img.akwam.link/uploads/X8ZhF.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7915",
-        "title": "King Shakir Recycle",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7915/king-shakir-recycle",
-        "rating": "6.0/10",
-        "img": "https://img.akwam.link/uploads/My8Sl.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7914",
-        "title": "There's Something Wrong with the Children",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7914/there-s-something-wrong-with-the-children",
-        "rating": "5.1/10",
-        "img": "https://img.akwam.link/uploads/aHDAz.jpg"
     }
 ]
