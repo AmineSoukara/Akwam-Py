@@ -1,293 +1,5 @@
 [
     {
-        "type": "shows",
-        "id": "shows/763",
-        "title": "NXT TakeOver: WarGames 2020",
-        "quality": "HDTV",
-        "url": "https://akwam.to/shows/763/nxt-takeover-wargames-2020",
-        "rating": "4.0/10",
-        "img": "https://img.akwam.link/uploads/brCTX.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/2723",
-        "title": "Buddy Games",
-        "quality": "BluRay",
-        "url": "https://akwam.to/movie/2723/buddy-games",
-        "rating": "5.0/10",
-        "img": "https://img.akwam.link/uploads/Vx1ga.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/2687",
-        "title": "True to the Game 2",
-        "quality": "CAM",
-        "url": "https://akwam.to/movie/2687/true-to-the-game-2",
-        "rating": "6.9/10",
-        "img": "https://img.akwam.link/uploads/fCDmW.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/1136",
-        "title": "The Victims' Game الموسم الاول",
-        "quality": "WebRip",
-        "url": "https://akwam.to/series/1136/the-victims-game-الموسم-الاول",
-        "rating": "7.4/10",
-        "img": "https://img.akwam.link/uploads/U9L7x.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/2399",
-        "title": "The Binding",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/2399/the-binding",
-        "rating": "5.0/10",
-        "img": "https://img.akwam.link/uploads/Ex08f.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/809",
-        "title": "Game On! A Comedy Crossover Event الموسم الاول",
-        "quality": "WebRip",
-        "url": "https://akwam.to/series/809/game-on-a-comedy-crossover-event-الموسم-الاول",
-        "rating": "6.8/10",
-        "img": "https://img.akwam.link/uploads/I2esg.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/2815",
-        "title": "The Fame Game الموسم الاول",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/2815/the-fame-game-الموسم-الاول",
-        "rating": "7.4/10",
-        "img": "https://img.akwam.link/uploads/EobJt.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/2802",
-        "title": "The Endgame الموسم الاول",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/2802/the-endgame-الموسم-الاول",
-        "rating": "5.7/10",
-        "img": "https://img.akwam.link/uploads/Y3MVp.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/2707",
-        "title": "Rules of the Game الموسم الاول",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/2707/rules-of-the-game-الموسم-الاول",
-        "rating": "6.0/10",
-        "img": "https://img.akwam.link/uploads/obquV.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/5586",
-        "title": "The Hating Game",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/5586/the-hating-game",
-        "rating": "6.5/10",
-        "img": "https://img.akwam.link/uploads/kcuZ0.jpg"
-    },
-    {
-        "type": "shows",
-        "id": "shows/1831",
-        "title": "WWE NXT WarGames 2021",
-        "quality": "WebRip",
-        "url": "https://akwam.to/shows/1831/wwe-nxt-wargames-2021",
-        "rating": "6.8/10",
-        "img": "https://img.akwam.link/uploads/UXiv5.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/5342",
-        "title": "American Pastoral",
-        "quality": "BluRay",
-        "url": "https://akwam.to/movie/5342/american-pastoral",
-        "rating": "6.1/10",
-        "img": "https://img.akwam.link/uploads/Yk36z.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/5329",
-        "title": "Game Changer",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/5329/game-changer",
-        "rating": "4.6/10",
-        "img": "https://img.akwam.link/uploads/3YvWG.jpg"
-    },
-    {
-        "type": "shows",
-        "id": "shows/1768",
-        "title": "The Mating Game الموسم الاول",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/shows/1768/the-mating-game-الموسم-الاول",
-        "rating": "9.1/10",
-        "img": "https://img.akwam.link/uploads/oevgW.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/2276",
-        "title": "The Game الموسم الاول",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/2276/the-game-الموسم-الاول",
-        "rating": "4.5/10",
-        "img": "https://img.akwam.link/uploads/IBMPE.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/5158",
-        "title": "Hacker's Game",
-        "quality": "WebRip",
-        "url": "https://akwam.to/movie/5158/hacker-s-game",
-        "rating": "3.7/10",
-        "img": "https://img.akwam.link/uploads/uEbwS.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/2125",
-        "title": "Digimon Ghost Game الموسم الاول",
-        "quality": "HD",
-        "url": "https://akwam.to/series/2125/digimon-ghost-game-الموسم-الاول",
-        "rating": "8.6/10",
-        "img": "https://img.akwam.link/uploads/wg7vR.jpg"
-    },
-    {
-        "type": "shows",
-        "id": "shows/1651",
-        "title": "End Game",
-        "quality": "WebRip",
-        "url": "https://akwam.to/shows/1651/end-game",
-        "rating": "7.1/10",
-        "img": "https://img.akwam.link/uploads/iteEQ.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/4932",
-        "title": "Survive the Game",
-        "quality": "BluRay",
-        "url": "https://akwam.to/movie/4932/survive-the-game",
-        "rating": "5.5/10",
-        "img": "https://img.akwam.link/uploads/DjLyn.jpg"
-    },
-    {
-        "type": "shows",
-        "id": "shows/1601",
-        "title": "The Game Changers",
-        "quality": "WebRip",
-        "url": "https://akwam.to/shows/1601/the-game-changers",
-        "rating": "7.9/10",
-        "img": "https://img.akwam.link/uploads/0dzl0.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/2033",
-        "title": "Squid Game الموسم الاول",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/2033/squid-game-الموسم-الاول",
-        "rating": "7.6/10",
-        "img": "https://img.akwam.link/uploads/p3gnY.jpg"
-    },
-    {
-        "type": "shows",
-        "id": "shows/1530",
-        "title": "The Conservation Game",
-        "quality": "WebRip",
-        "url": "https://akwam.to/shows/1530/the-conservation-game",
-        "rating": "7.2/10",
-        "img": "https://img.akwam.link/uploads/4fpBe.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/56",
-        "title": "Game of Thrones الموسم الثامن",
-        "quality": "BluRay",
-        "url": "https://akwam.to/series/56/game-of-thrones-الموسم-الثامن",
-        "rating": "9.3/10",
-        "img": "https://img.akwam.link/uploads/MKo6S.jpeg"
-    },
-    {
-        "type": "series",
-        "id": "series/55",
-        "title": "Game of Thrones الموسم السابع",
-        "quality": "BluRay",
-        "url": "https://akwam.to/series/55/game-of-thrones-الموسم-السابع",
-        "rating": "9.3/10",
-        "img": "https://img.akwam.link/uploads/X4nsL.jpeg"
-    },
-    {
-        "type": "series",
-        "id": "series/54",
-        "title": "Game of Thrones الموسم السادس",
-        "quality": "BluRay",
-        "url": "https://akwam.to/series/54/game-of-thrones-الموسم-السادس",
-        "rating": "9.3/10",
-        "img": "https://img.akwam.link/uploads/DDLCA.jpeg"
-    },
-    {
-        "type": "series",
-        "id": "series/52",
-        "title": "Game of Thrones الموسم الخامس",
-        "quality": "BluRay",
-        "url": "https://akwam.to/series/52/game-of-thrones-الموسم-الخامس",
-        "rating": "9.3/10",
-        "img": "https://img.akwam.link/uploads/SgJft.jpeg"
-    },
-    {
-        "type": "series",
-        "id": "series/50",
-        "title": "Game of Thrones الموسم الرابع",
-        "quality": "BluRay",
-        "url": "https://akwam.to/series/50/game-of-thrones-الموسم-الرابع",
-        "rating": "9.3/10",
-        "img": "https://img.akwam.link/uploads/kabzD.jpeg"
-    },
-    {
-        "type": "series",
-        "id": "series/49",
-        "title": "Game of Thrones الموسم الثالث",
-        "quality": "BluRay",
-        "url": "https://akwam.to/series/49/game-of-thrones-الموسم-الثالث",
-        "rating": "9.3/10",
-        "img": "https://img.akwam.link/uploads/ScxEw.jpeg"
-    },
-    {
-        "type": "series",
-        "id": "series/48",
-        "title": "Game of Thrones الموسم الثاني",
-        "quality": "BluRay",
-        "url": "https://akwam.to/series/48/game-of-thrones-الموسم-الثاني",
-        "rating": "9.3/10",
-        "img": "https://img.akwam.link/uploads/AGtgI.png"
-    },
-    {
-        "type": "series",
-        "id": "series/47",
-        "title": "Game of Thrones الموسم الاول",
-        "quality": "BluRay",
-        "url": "https://akwam.to/series/47/game-of-thrones-الموسم-الاول",
-        "rating": "9.3/10",
-        "img": "https://img.akwam.link/uploads/ai1Op.jpeg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/310",
-        "title": "The Hunger Games: Mockingjay - Part 1",
-        "quality": "BluRay",
-        "url": "https://akwam.to/movie/310/the-hunger-games-mockingjay-part-1",
-        "rating": "6.6/10",
-        "img": "https://img.akwam.link/uploads/C7tLQ.jpeg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/268",
-        "title": "The Imitation Game",
-        "quality": "BluRay",
-        "url": "https://akwam.to/movie/268/the-imitation-game",
-        "rating": "8.0/10",
-        "img": "https://img.akwam.link/uploads/Ex75c.jpeg"
-    },
-    {
         "type": "series",
         "id": "series/3825",
         "title": "The Game الموسم الثاني",
@@ -477,6 +189,60 @@
         "img": "https://img.akwam.link/uploads/JgMf5.jpg"
     },
     {
+        "type": "shows",
+        "id": "shows/763",
+        "title": "NXT TakeOver: WarGames 2020",
+        "quality": "HDTV",
+        "url": "https://akwam.to/shows/763/nxt-takeover-wargames-2020",
+        "rating": "4.0/10",
+        "img": "https://img.akwam.link/uploads/brCTX.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/2723",
+        "title": "Buddy Games",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/2723/buddy-games",
+        "rating": "5.0/10",
+        "img": "https://img.akwam.link/uploads/Vx1ga.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/2687",
+        "title": "True to the Game 2",
+        "quality": "CAM",
+        "url": "https://akwam.to/movie/2687/true-to-the-game-2",
+        "rating": "6.9/10",
+        "img": "https://img.akwam.link/uploads/fCDmW.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/1136",
+        "title": "The Victims' Game الموسم الاول",
+        "quality": "WebRip",
+        "url": "https://akwam.to/series/1136/the-victims-game-الموسم-الاول",
+        "rating": "7.4/10",
+        "img": "https://img.akwam.link/uploads/U9L7x.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/2399",
+        "title": "The Binding",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/2399/the-binding",
+        "rating": "5.0/10",
+        "img": "https://img.akwam.link/uploads/Ex08f.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/809",
+        "title": "Game On! A Comedy Crossover Event الموسم الاول",
+        "quality": "WebRip",
+        "url": "https://akwam.to/series/809/game-on-a-comedy-crossover-event-الموسم-الاول",
+        "rating": "6.8/10",
+        "img": "https://img.akwam.link/uploads/I2esg.jpg"
+    },
+    {
         "type": "series",
         "id": "series/695",
         "title": "Kissing Game الموسم الاول",
@@ -567,6 +333,150 @@
         "img": "https://img.akwam.link/uploads/aQZeX.jpeg"
     },
     {
+        "type": "series",
+        "id": "series/2815",
+        "title": "The Fame Game الموسم الاول",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/2815/the-fame-game-الموسم-الاول",
+        "rating": "7.4/10",
+        "img": "https://img.akwam.link/uploads/EobJt.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/2802",
+        "title": "The Endgame الموسم الاول",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/2802/the-endgame-الموسم-الاول",
+        "rating": "5.7/10",
+        "img": "https://img.akwam.link/uploads/Y3MVp.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/2707",
+        "title": "Rules of the Game الموسم الاول",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/2707/rules-of-the-game-الموسم-الاول",
+        "rating": "6.0/10",
+        "img": "https://img.akwam.link/uploads/obquV.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/5586",
+        "title": "The Hating Game",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/5586/the-hating-game",
+        "rating": "6.5/10",
+        "img": "https://img.akwam.link/uploads/kcuZ0.jpg"
+    },
+    {
+        "type": "shows",
+        "id": "shows/1831",
+        "title": "WWE NXT WarGames 2021",
+        "quality": "WebRip",
+        "url": "https://akwam.to/shows/1831/wwe-nxt-wargames-2021",
+        "rating": "6.8/10",
+        "img": "https://img.akwam.link/uploads/UXiv5.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/5342",
+        "title": "American Pastoral",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/5342/american-pastoral",
+        "rating": "6.1/10",
+        "img": "https://img.akwam.link/uploads/Yk36z.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/5329",
+        "title": "Game Changer",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/5329/game-changer",
+        "rating": "4.6/10",
+        "img": "https://img.akwam.link/uploads/3YvWG.jpg"
+    },
+    {
+        "type": "shows",
+        "id": "shows/1768",
+        "title": "The Mating Game الموسم الاول",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/shows/1768/the-mating-game-الموسم-الاول",
+        "rating": "9.1/10",
+        "img": "https://img.akwam.link/uploads/oevgW.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/2276",
+        "title": "The Game الموسم الاول",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/2276/the-game-الموسم-الاول",
+        "rating": "4.5/10",
+        "img": "https://img.akwam.link/uploads/IBMPE.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/5158",
+        "title": "Hacker's Game",
+        "quality": "WebRip",
+        "url": "https://akwam.to/movie/5158/hacker-s-game",
+        "rating": "3.7/10",
+        "img": "https://img.akwam.link/uploads/uEbwS.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/2125",
+        "title": "Digimon Ghost Game الموسم الاول",
+        "quality": "HD",
+        "url": "https://akwam.to/series/2125/digimon-ghost-game-الموسم-الاول",
+        "rating": "8.6/10",
+        "img": "https://img.akwam.link/uploads/wg7vR.jpg"
+    },
+    {
+        "type": "shows",
+        "id": "shows/1651",
+        "title": "End Game",
+        "quality": "WebRip",
+        "url": "https://akwam.to/shows/1651/end-game",
+        "rating": "7.1/10",
+        "img": "https://img.akwam.link/uploads/iteEQ.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/4932",
+        "title": "Survive the Game",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/4932/survive-the-game",
+        "rating": "5.5/10",
+        "img": "https://img.akwam.link/uploads/DjLyn.jpg"
+    },
+    {
+        "type": "shows",
+        "id": "shows/1601",
+        "title": "The Game Changers",
+        "quality": "WebRip",
+        "url": "https://akwam.to/shows/1601/the-game-changers",
+        "rating": "7.9/10",
+        "img": "https://img.akwam.link/uploads/0dzl0.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/2033",
+        "title": "Squid Game الموسم الاول",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/2033/squid-game-الموسم-الاول",
+        "rating": "7.6/10",
+        "img": "https://img.akwam.link/uploads/p3gnY.jpg"
+    },
+    {
+        "type": "shows",
+        "id": "shows/1530",
+        "title": "The Conservation Game",
+        "quality": "WebRip",
+        "url": "https://akwam.to/shows/1530/the-conservation-game",
+        "rating": "7.2/10",
+        "img": "https://img.akwam.link/uploads/4fpBe.jpg"
+    },
+    {
         "type": "movie",
         "id": "movie/428",
         "title": "The Hunger Games",
@@ -574,5 +484,95 @@
         "url": "https://akwam.to/movie/428/the-hunger-games",
         "rating": "7.2/10",
         "img": "https://img.akwam.link/uploads/7YPEu.jpeg"
+    },
+    {
+        "type": "series",
+        "id": "series/56",
+        "title": "Game of Thrones الموسم الثامن",
+        "quality": "BluRay",
+        "url": "https://akwam.to/series/56/game-of-thrones-الموسم-الثامن",
+        "rating": "9.3/10",
+        "img": "https://img.akwam.link/uploads/MKo6S.jpeg"
+    },
+    {
+        "type": "series",
+        "id": "series/55",
+        "title": "Game of Thrones الموسم السابع",
+        "quality": "BluRay",
+        "url": "https://akwam.to/series/55/game-of-thrones-الموسم-السابع",
+        "rating": "9.3/10",
+        "img": "https://img.akwam.link/uploads/X4nsL.jpeg"
+    },
+    {
+        "type": "series",
+        "id": "series/54",
+        "title": "Game of Thrones الموسم السادس",
+        "quality": "BluRay",
+        "url": "https://akwam.to/series/54/game-of-thrones-الموسم-السادس",
+        "rating": "9.3/10",
+        "img": "https://img.akwam.link/uploads/DDLCA.jpeg"
+    },
+    {
+        "type": "series",
+        "id": "series/52",
+        "title": "Game of Thrones الموسم الخامس",
+        "quality": "BluRay",
+        "url": "https://akwam.to/series/52/game-of-thrones-الموسم-الخامس",
+        "rating": "9.3/10",
+        "img": "https://img.akwam.link/uploads/SgJft.jpeg"
+    },
+    {
+        "type": "series",
+        "id": "series/50",
+        "title": "Game of Thrones الموسم الرابع",
+        "quality": "BluRay",
+        "url": "https://akwam.to/series/50/game-of-thrones-الموسم-الرابع",
+        "rating": "9.3/10",
+        "img": "https://img.akwam.link/uploads/kabzD.jpeg"
+    },
+    {
+        "type": "series",
+        "id": "series/49",
+        "title": "Game of Thrones الموسم الثالث",
+        "quality": "BluRay",
+        "url": "https://akwam.to/series/49/game-of-thrones-الموسم-الثالث",
+        "rating": "9.3/10",
+        "img": "https://img.akwam.link/uploads/ScxEw.jpeg"
+    },
+    {
+        "type": "series",
+        "id": "series/48",
+        "title": "Game of Thrones الموسم الثاني",
+        "quality": "BluRay",
+        "url": "https://akwam.to/series/48/game-of-thrones-الموسم-الثاني",
+        "rating": "9.3/10",
+        "img": "https://img.akwam.link/uploads/AGtgI.png"
+    },
+    {
+        "type": "series",
+        "id": "series/47",
+        "title": "Game of Thrones الموسم الاول",
+        "quality": "BluRay",
+        "url": "https://akwam.to/series/47/game-of-thrones-الموسم-الاول",
+        "rating": "9.3/10",
+        "img": "https://img.akwam.link/uploads/ai1Op.jpeg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/310",
+        "title": "The Hunger Games: Mockingjay - Part 1",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/310/the-hunger-games-mockingjay-part-1",
+        "rating": "6.6/10",
+        "img": "https://img.akwam.link/uploads/C7tLQ.jpeg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/268",
+        "title": "The Imitation Game",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/268/the-imitation-game",
+        "rating": "8.0/10",
+        "img": "https://img.akwam.link/uploads/Ex75c.jpeg"
     }
 ]
