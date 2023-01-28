@@ -1,6 +1,123 @@
 [
     {
         "type": "movie",
+        "id": "movie/7981",
+        "title": "An Action Hero",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7981/an-action-hero",
+        "rating": "7.9/10",
+        "img": "https://img.akwam.link/uploads/hkIZk.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/3948",
+        "title": "The Catch الموسم الاول",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3948/the-catch-الموسم-الاول",
+        "rating": "6.5/10",
+        "img": "https://img.akwam.link/uploads/Igehf.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/3947",
+        "title": "Shrinking الموسم الاول",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3947/shrinking-الموسم-الاول",
+        "rating": "7.9/10",
+        "img": "https://img.akwam.link/uploads/py0Ee.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7980",
+        "title": "When You Finish Saving the World",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7980/when-you-finish-saving-the-world",
+        "rating": "6.3/10",
+        "img": "https://img.akwam.link/uploads/zdZSY.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/3946",
+        "title": "Kings of Jo'burg الموسم الثاني",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3946/kings-of-jo-burg-الموسم-الثاني",
+        "rating": "5.2/10",
+        "img": "https://img.akwam.link/uploads/4ssxs.jpeg"
+    },
+    {
+        "type": "series",
+        "id": "series/3945",
+        "title": "The Snow Girl الموسم الاول",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3945/the-snow-girl-الموسم-الاول",
+        "rating": "7.9/10",
+        "img": "https://img.akwam.link/uploads/A0Vlx.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/3944",
+        "title": "Lockwood & Co الموسم الاول",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3944/lockwood-co-الموسم-الاول",
+        "rating": "8.1/10",
+        "img": "https://img.akwam.link/uploads/dZXms.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7979",
+        "title": "Airborne",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7979/airborne",
+        "rating": "6.1/10",
+        "img": "https://img.akwam.link/uploads/QOmUn.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7978",
+        "title": "Shotgun Wedding",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7978/shotgun-wedding",
+        "rating": "5.8/10",
+        "img": "https://img.akwam.link/uploads/WsfVv.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7977",
+        "title": "Bullet Train Down",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/7977/bullet-train-down",
+        "rating": "4.0/10",
+        "img": "https://img.akwam.link/uploads/rX2xC.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7976",
+        "title": "Haunted Valley",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7976/haunted-valley",
+        "rating": "8.5/10",
+        "img": "https://img.akwam.link/uploads/sbvmp.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7975",
+        "title": "You People",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7975/you-people",
+        "rating": "5.4/10",
+        "img": "https://img.akwam.link/uploads/Iea17.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7974",
+        "title": "Air Force the Movie: Selagi Bernyawa",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7974/air-force-the-movie-selagi-bernyawa",
+        "rating": "5.6/10",
+        "img": "https://img.akwam.link/uploads/Pl2On.jpg"
+    },
+    {
+        "type": "movie",
         "id": "movie/7973",
         "title": "Shark Waters",
         "quality": "WEB-DL",
@@ -367,131 +484,5 @@
         "url": "https://akwam.to/shows/2461/شاهين-ليه",
         "rating": "6.8/10",
         "img": "https://img.akwam.link/uploads/oeP4a.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3930",
-        "title": "آخر عزوبي",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3930/آخر-عزوبي",
-        "rating": "5.9/10",
-        "img": "https://img.akwam.link/uploads/zQH0p.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7949",
-        "title": "The Last Client",
-        "quality": "BluRay",
-        "url": "https://akwam.to/movie/7949/the-last-client",
-        "rating": "6.3/10",
-        "img": "https://img.akwam.link/uploads/7QcPG.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7948",
-        "title": "Icon",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7948/icon",
-        "rating": "6.8/10",
-        "img": "https://img.akwam.link/uploads/pZwXf.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7947",
-        "title": "The Post-Truth World",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7947/the-post-truth-world",
-        "rating": "6.8/10",
-        "img": "https://img.akwam.link/uploads/pSFL7.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7946",
-        "title": "B Cut",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7946/b-cut",
-        "rating": "6.3/10",
-        "img": "https://img.akwam.link/uploads/qzu8a.jpg"
-    },
-    {
-        "type": "shows",
-        "id": "shows/2460",
-        "title": "حفل جوائز صنّاع الترفيه الموسم 2023",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/shows/2460/حفل-جوائز-صناع-الترفيه-الموسم-2023",
-        "rating": "6.5/10",
-        "img": "https://img.akwam.link/uploads/EUwKT.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3929",
-        "title": "حكايات جروب الماميز",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3929/حكايات-جروب-الماميز",
-        "rating": "6.8/10",
-        "img": "https://img.akwam.link/uploads/0UHTA.jpg"
-    },
-    {
-        "type": "shows",
-        "id": "shows/2459",
-        "title": "752Is Not a Number",
-        "quality": "WebRip",
-        "url": "https://akwam.to/shows/2459/752is-not-a-number",
-        "rating": "7.6/10",
-        "img": "https://img.akwam.link/uploads/vsyfW.jpg"
-    },
-    {
-        "type": "shows",
-        "id": "shows/2458",
-        "title": "Nazi Fugitives",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/shows/2458/nazi-fugitives",
-        "rating": "6.2/10",
-        "img": "https://img.akwam.link/uploads/V1Y5f.jpg"
-    },
-    {
-        "type": "shows",
-        "id": "shows/2457",
-        "title": "AEW Rampage 2023.01.20",
-        "quality": "WebRip",
-        "url": "https://akwam.to/shows/2457/aew-rampage-2023-01-20",
-        "rating": "5.5/10",
-        "img": "https://img.akwam.link/uploads/xbGwc.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7945",
-        "title": "فيلم 6/45",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7945/فيلم-6-45",
-        "rating": "7.0/10",
-        "img": "https://img.akwam.link/uploads/kJ5dK.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3928",
-        "title": "نايرات",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3928/نايرات",
-        "rating": "5.5/10",
-        "img": "https://img.akwam.link/uploads/E1AU1.jpg"
-    },
-    {
-        "type": "shows",
-        "id": "shows/2456",
-        "title": "WWE Friday Night Smackdown 2023.01.20",
-        "quality": "WebRip",
-        "url": "https://akwam.to/shows/2456/wwe-friday-night-smackdown-2023-01-20",
-        "rating": "5.6/10",
-        "img": "https://img.akwam.link/uploads/tLD7p.jpg"
-    },
-    {
-        "type": "shows",
-        "id": "shows/2455",
-        "title": "AEW Dynamite 2023.01.18",
-        "quality": "HDTV",
-        "url": "https://akwam.to/shows/2455/aew-dynamite-2023-01-18",
-        "rating": "5.8/10",
-        "img": "https://img.akwam.link/uploads/5kjgq.jpg"
     }
 ]
