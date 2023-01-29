@@ -1,6 +1,15 @@
 [
     {
         "type": "movie",
+        "id": "movie/7532",
+        "title": "Black Panther: Wakanda Forever",
+        "quality": "HDRIP",
+        "url": "https://akwam.to/movie/7532/black-panther-wakanda-forever-14",
+        "rating": "7.2/10",
+        "img": "https://img.akwam.link/uploads/38KAU.jpg"
+    },
+    {
+        "type": "movie",
         "id": "movie/7981",
         "title": "An Action Hero",
         "quality": "WEB-DL",
@@ -529,14 +538,5 @@
         "url": "https://akwam.to/movie/7925/الخلاط",
         "rating": "5.5/10",
         "img": "https://img.akwam.link/uploads/4U5Rz.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7924",
-        "title": "غدوة",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7924/غدوة",
-        "rating": "6.4/10",
-        "img": "https://img.akwam.link/uploads/doMGj.jpg"
     }
 ]
