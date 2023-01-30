@@ -1,5 +1,158 @@
 [
     {
+        "type": "series",
+        "id": "series/3958",
+        "title": "Al Sancak الموسم الاول",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3958/al-sancak-الموسم-الاول",
+        "rating": "6.7/10",
+        "img": "https://img.akwam.link/uploads/RzRTW.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/3954",
+        "title": "Departure الموسم الثاني",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3954/departure-الموسم-الثاني",
+        "rating": "6.9/10",
+        "img": "https://img.akwam.link/uploads/KmE0p.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/3953",
+        "title": "Departure الموسم الاول",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3953/departure-الموسم-الاول",
+        "rating": "6.9/10",
+        "img": "https://img.akwam.link/uploads/UqOLb.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/3952",
+        "title": "Dokuz Oğuz الموسم الاول",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3952/dokuz-ouz-الموسم-الاول",
+        "rating": "7.0/10",
+        "img": "https://img.akwam.link/uploads/Q2DkV.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7993",
+        "title": "Night of the Bastard",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7993/night-of-the-bastard",
+        "rating": "5.0/10",
+        "img": "https://img.akwam.link/uploads/JQHPD.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7992",
+        "title": "The 3rd Guest",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7992/the-3rd-guest",
+        "rating": "2.6/10",
+        "img": "https://img.akwam.link/uploads/WlUuk.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7991",
+        "title": "Werewolf Cabal",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7991/werewolf-cabal",
+        "rating": "4.9/10",
+        "img": "https://img.akwam.link/uploads/qYKXa.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7990",
+        "title": "Devil Beneath",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7990/devil-beneath",
+        "rating": "4.5/10",
+        "img": "https://img.akwam.link/uploads/bGSSo.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7989",
+        "title": "Beyond the Neon",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7989/beyond-the-neon",
+        "rating": "6.7/10",
+        "img": "https://img.akwam.link/uploads/s6hQ0.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7988",
+        "title": "The Legend of Herring",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7988/the-legend-of-herring",
+        "rating": "5.5/10",
+        "img": "https://img.akwam.link/uploads/3DnIQ.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7987",
+        "title": "The Winter Witch",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7987/the-winter-witch",
+        "rating": "3.8/10",
+        "img": "https://img.akwam.link/uploads/waffd.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7986",
+        "title": "Carnifex",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7986/carnifex",
+        "rating": "4.8/10",
+        "img": "https://img.akwam.link/uploads/CiPXQ.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7985",
+        "title": "Beneath the Green",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7985/beneath-the-green",
+        "rating": "4.2/10",
+        "img": "https://img.akwam.link/uploads/YUmo1.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7984",
+        "title": "Mask of the Devil",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7984/mask-of-the-devil",
+        "rating": "5.7/10",
+        "img": "https://img.akwam.link/uploads/cD7B9.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7983",
+        "title": "Legions",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7983/legions",
+        "rating": "5.3/10",
+        "img": "https://img.akwam.link/uploads/Wv68C.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7982",
+        "title": "Waking Karma",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7982/waking-karma",
+        "rating": "5.5/10",
+        "img": "https://img.akwam.link/uploads/FIQr6.jpg"
+    },
+    {
+        "type": "shows",
+        "id": "shows/2468",
+        "title": "WWE Royal Rumble 2023",
+        "quality": "WebRip",
+        "url": "https://akwam.to/shows/2468/wwe-royal-rumble-2023",
+        "rating": "7.1/10",
+        "img": "https://img.akwam.link/uploads/uSuzt.jpg"
+    },
+    {
         "type": "shows",
         "id": "shows/2467",
         "title": "AEW Rampage 2023.01.27",
@@ -313,140 +466,5 @@
         "url": "https://akwam.to/movie/7964/the-hanging-sun",
         "rating": "5.2/10",
         "img": "https://img.akwam.link/uploads/So7rq.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3936",
-        "title": "Extraordinary الموسم الاول",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3936/extraordinary-الموسم-الاول",
-        "rating": "6.9/10",
-        "img": "https://img.akwam.link/uploads/h1NWy.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3935",
-        "title": "9-1-1 Lone Star الموسم الرابع",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3935/9-1-1-lone-star-الموسم-الرابع",
-        "rating": "7.1/10",
-        "img": "https://img.akwam.link/uploads/b0vks.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3934",
-        "title": "كازا ستريت",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3934/كازا-ستريت",
-        "rating": "5.5/10",
-        "img": "https://img.akwam.link/uploads/xGMOS.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7963",
-        "title": "Panther Swat",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7963/panther-swat",
-        "rating": "6.0/10",
-        "img": "https://img.akwam.link/uploads/crO8y.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7962",
-        "title": "Symbol",
-        "quality": "BluRay",
-        "url": "https://akwam.to/movie/7962/symbol",
-        "rating": "7.0/10",
-        "img": "https://img.akwam.link/uploads/45f1s.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7961",
-        "title": "The Rock",
-        "quality": "BluRay",
-        "url": "https://akwam.to/movie/7961/the-rock",
-        "rating": "7.4/10",
-        "img": "https://img.akwam.link/uploads/YS9Dd.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7960",
-        "title": "Flight",
-        "quality": "BluRay",
-        "url": "https://akwam.to/movie/7960/flight",
-        "rating": "7.3/10",
-        "img": "https://img.akwam.link/uploads/kYlfr.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7959",
-        "title": "Thattassery Koottam",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7959/thattassery-koottam",
-        "rating": "5.1/10",
-        "img": "https://img.akwam.link/uploads/f4CHc.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7958",
-        "title": "Gurthunda Seethakalam",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7958/gurthunda-seethakalam",
-        "rating": "7.8/10",
-        "img": "https://img.akwam.link/uploads/Bo9b5.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3933",
-        "title": "How I Met Your Father الموسم الثاني",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3933/how-i-met-your-father-الموسم-الثاني",
-        "rating": "5.5/10",
-        "img": "https://img.akwam.link/uploads/tTAiN.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3932",
-        "title": "Granite Harbour الموسم الاول",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3932/granite-harbour-الموسم-الاول",
-        "rating": "5.3/10",
-        "img": "https://img.akwam.link/uploads/peVag.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7957",
-        "title": "The Audition",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7957/the-audition",
-        "rating": "4.0/10",
-        "img": "https://img.akwam.link/uploads/Io7w7.jpg"
-    },
-    {
-        "type": "shows",
-        "id": "shows/2462",
-        "title": "WWE Monday Night Raw 2023.01.23",
-        "quality": "HDTV",
-        "url": "https://akwam.to/shows/2462/wwe-monday-night-raw-2023-01-23",
-        "rating": "6.2/10",
-        "img": "https://img.akwam.link/uploads/CIZ4J.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7956",
-        "title": "Sorry About the Demon",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7956/sorry-about-the-demon",
-        "rating": "4.9/10",
-        "img": "https://img.akwam.link/uploads/oYtHn.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7955",
-        "title": "Almighty Zeus",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7955/almighty-zeus",
-        "rating": "4.5/10",
-        "img": "https://img.akwam.link/uploads/syLu4.jpg"
     }
 ]

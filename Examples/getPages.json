@@ -1,168 +1,6 @@
 [
     {
         "type": "movie",
-        "id": "movie/7532",
-        "title": "Black Panther: Wakanda Forever",
-        "quality": "HDRIP",
-        "url": "https://akwam.to/movie/7532/black-panther-wakanda-forever-14",
-        "rating": "7.2/10",
-        "img": "https://img.akwam.link/uploads/38KAU.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7981",
-        "title": "An Action Hero",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7981/an-action-hero",
-        "rating": "7.9/10",
-        "img": "https://img.akwam.link/uploads/hkIZk.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7980",
-        "title": "When You Finish Saving the World",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7980/when-you-finish-saving-the-world",
-        "rating": "6.3/10",
-        "img": "https://img.akwam.link/uploads/zdZSY.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7979",
-        "title": "Airborne",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7979/airborne",
-        "rating": "6.1/10",
-        "img": "https://img.akwam.link/uploads/QOmUn.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7978",
-        "title": "Shotgun Wedding",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7978/shotgun-wedding",
-        "rating": "5.8/10",
-        "img": "https://img.akwam.link/uploads/WsfVv.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7977",
-        "title": "Bullet Train Down",
-        "quality": "BluRay",
-        "url": "https://akwam.to/movie/7977/bullet-train-down",
-        "rating": "4.0/10",
-        "img": "https://img.akwam.link/uploads/rX2xC.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7976",
-        "title": "Haunted Valley",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7976/haunted-valley",
-        "rating": "8.5/10",
-        "img": "https://img.akwam.link/uploads/sbvmp.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7975",
-        "title": "You People",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7975/you-people",
-        "rating": "5.4/10",
-        "img": "https://img.akwam.link/uploads/Iea17.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7974",
-        "title": "Air Force the Movie: Selagi Bernyawa",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7974/air-force-the-movie-selagi-bernyawa",
-        "rating": "5.6/10",
-        "img": "https://img.akwam.link/uploads/Pl2On.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7970",
-        "title": "Teen Wolf: The Movie",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7970/teen-wolf-the-movie",
-        "rating": "8.7/10",
-        "img": "https://img.akwam.link/uploads/9dBpb.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7973",
-        "title": "Shark Waters",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7973/shark-waters",
-        "rating": "4.6/10",
-        "img": "https://img.akwam.link/uploads/tpE4W.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7972",
-        "title": "The Plot to Kill My Mother",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7972/the-plot-to-kill-my-mother",
-        "rating": "5.9/10",
-        "img": "https://img.akwam.link/uploads/xFG43.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7971",
-        "title": "Imani",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7971/imani",
-        "rating": "4.4/10",
-        "img": "https://img.akwam.link/uploads/f40zX.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7969",
-        "title": "Summer Frost",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7969/summer-frost",
-        "rating": "5.5/10",
-        "img": "https://img.akwam.link/uploads/fJDCf.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7968",
-        "title": "All Eyes",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7968/all-eyes",
-        "rating": "5.4/10",
-        "img": "https://img.akwam.link/uploads/hPqUo.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7967",
-        "title": "Night Train",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7967/night-train",
-        "rating": "6.3/10",
-        "img": "https://img.akwam.link/uploads/bblsG.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7966",
-        "title": "Babylon",
-        "quality": "CAM",
-        "url": "https://akwam.to/movie/7966/babylon",
-        "rating": "7.6/10",
-        "img": "https://img.akwam.link/uploads/j7QzW.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7885",
-        "title": "M3GAN",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7885/m3gan",
-        "rating": "6.6/10",
-        "img": "https://img.akwam.link/uploads/uAZ6m.jpg"
-    },
-    {
-        "type": "movie",
         "id": "movie/7965",
         "title": "The Price of Family",
         "quality": "WEB-DL",
@@ -433,110 +271,272 @@
     },
     {
         "type": "movie",
-        "id": "movie/7936",
-        "title": "Wog Boys Forever",
+        "id": "movie/7993",
+        "title": "Night of the Bastard",
         "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7936/wog-boys-forever",
+        "url": "https://akwam.to/movie/7993/night-of-the-bastard",
+        "rating": "5.0/10",
+        "img": "https://img.akwam.link/uploads/JQHPD.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7992",
+        "title": "The 3rd Guest",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7992/the-3rd-guest",
+        "rating": "2.6/10",
+        "img": "https://img.akwam.link/uploads/WlUuk.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7991",
+        "title": "Werewolf Cabal",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7991/werewolf-cabal",
+        "rating": "4.9/10",
+        "img": "https://img.akwam.link/uploads/qYKXa.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7990",
+        "title": "Devil Beneath",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7990/devil-beneath",
+        "rating": "4.5/10",
+        "img": "https://img.akwam.link/uploads/bGSSo.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7989",
+        "title": "Beyond the Neon",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7989/beyond-the-neon",
+        "rating": "6.7/10",
+        "img": "https://img.akwam.link/uploads/s6hQ0.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7988",
+        "title": "The Legend of Herring",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7988/the-legend-of-herring",
         "rating": "5.5/10",
-        "img": "https://img.akwam.link/uploads/t3dtn.jpg"
+        "img": "https://img.akwam.link/uploads/3DnIQ.jpg"
     },
     {
         "type": "movie",
-        "id": "movie/7935",
-        "title": "Transfusion",
+        "id": "movie/7987",
+        "title": "The Winter Witch",
         "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7935/transfusion",
-        "rating": "7.1/10",
-        "img": "https://img.akwam.link/uploads/cNCnV.jpg"
+        "url": "https://akwam.to/movie/7987/the-winter-witch",
+        "rating": "3.8/10",
+        "img": "https://img.akwam.link/uploads/waffd.jpg"
     },
     {
         "type": "movie",
-        "id": "movie/7934",
-        "title": "ضيوف شرف",
+        "id": "movie/7986",
+        "title": "Carnifex",
         "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7934/ضيوف-شرف-1",
+        "url": "https://akwam.to/movie/7986/carnifex",
+        "rating": "4.8/10",
+        "img": "https://img.akwam.link/uploads/CiPXQ.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7985",
+        "title": "Beneath the Green",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7985/beneath-the-green",
+        "rating": "4.2/10",
+        "img": "https://img.akwam.link/uploads/YUmo1.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7984",
+        "title": "Mask of the Devil",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7984/mask-of-the-devil",
+        "rating": "5.7/10",
+        "img": "https://img.akwam.link/uploads/cD7B9.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7983",
+        "title": "Legions",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7983/legions",
+        "rating": "5.3/10",
+        "img": "https://img.akwam.link/uploads/Wv68C.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7982",
+        "title": "Waking Karma",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7982/waking-karma",
         "rating": "5.5/10",
-        "img": "https://img.akwam.link/uploads/D2mDF.jpg"
+        "img": "https://img.akwam.link/uploads/FIQr6.jpg"
     },
     {
         "type": "movie",
-        "id": "movie/7933",
-        "title": "Extras for Chasing The Dragon",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7933/extras-for-chasing-the-dragon",
-        "rating": "6.0/10",
-        "img": "https://img.akwam.link/uploads/aBARx.jpg"
+        "id": "movie/7532",
+        "title": "Black Panther: Wakanda Forever",
+        "quality": "HDRIP",
+        "url": "https://akwam.to/movie/7532/black-panther-wakanda-forever-14",
+        "rating": "7.2/10",
+        "img": "https://img.akwam.link/uploads/38KAU.jpg"
     },
     {
         "type": "movie",
-        "id": "movie/7932",
-        "title": "House Party",
+        "id": "movie/7981",
+        "title": "An Action Hero",
         "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7932/house-party",
-        "rating": "4.6/10",
-        "img": "https://img.akwam.link/uploads/yIUmX.jpg"
+        "url": "https://akwam.to/movie/7981/an-action-hero",
+        "rating": "7.9/10",
+        "img": "https://img.akwam.link/uploads/hkIZk.jpg"
     },
     {
         "type": "movie",
-        "id": "movie/7931",
-        "title": "Kaapa",
+        "id": "movie/7980",
+        "title": "When You Finish Saving the World",
         "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7931/kaapa",
-        "rating": "7.0/10",
-        "img": "https://img.akwam.link/uploads/q3714.jpg"
+        "url": "https://akwam.to/movie/7980/when-you-finish-saving-the-world",
+        "rating": "6.3/10",
+        "img": "https://img.akwam.link/uploads/zdZSY.jpg"
     },
     {
         "type": "movie",
-        "id": "movie/7930",
-        "title": "Naai Sekar Returns",
+        "id": "movie/7979",
+        "title": "Airborne",
         "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7930/naai-sekar-returns",
-        "rating": "4.3/10",
-        "img": "https://img.akwam.link/uploads/0NbnZ.jpg"
+        "url": "https://akwam.to/movie/7979/airborne",
+        "rating": "6.1/10",
+        "img": "https://img.akwam.link/uploads/QOmUn.jpg"
     },
     {
         "type": "movie",
-        "id": "movie/7929",
-        "title": "Cop Secret",
+        "id": "movie/7978",
+        "title": "Shotgun Wedding",
         "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7929/cop-secret",
-        "rating": "6.2/10",
-        "img": "https://img.akwam.link/uploads/hPQIQ.jpg"
+        "url": "https://akwam.to/movie/7978/shotgun-wedding",
+        "rating": "5.8/10",
+        "img": "https://img.akwam.link/uploads/WsfVv.jpg"
     },
     {
         "type": "movie",
-        "id": "movie/7928",
-        "title": "Seriously Red",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7928/seriously-red",
-        "rating": "5.1/10",
-        "img": "https://img.akwam.link/uploads/4RoUw.jpg"
+        "id": "movie/7977",
+        "title": "Bullet Train Down",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/7977/bullet-train-down",
+        "rating": "4.0/10",
+        "img": "https://img.akwam.link/uploads/rX2xC.jpg"
     },
     {
         "type": "movie",
-        "id": "movie/7927",
-        "title": "The Price We Pay",
+        "id": "movie/7976",
+        "title": "Haunted Valley",
         "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7927/the-price-we-pay",
+        "url": "https://akwam.to/movie/7976/haunted-valley",
+        "rating": "8.5/10",
+        "img": "https://img.akwam.link/uploads/sbvmp.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7975",
+        "title": "You People",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7975/you-people",
         "rating": "5.4/10",
-        "img": "https://img.akwam.link/uploads/GszT3.jpg"
+        "img": "https://img.akwam.link/uploads/Iea17.jpg"
     },
     {
         "type": "movie",
-        "id": "movie/7926",
-        "title": "Whina",
+        "id": "movie/7974",
+        "title": "Air Force the Movie: Selagi Bernyawa",
         "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7926/whina",
-        "rating": "7.8/10",
-        "img": "https://img.akwam.link/uploads/baOMw.jpg"
+        "url": "https://akwam.to/movie/7974/air-force-the-movie-selagi-bernyawa",
+        "rating": "5.6/10",
+        "img": "https://img.akwam.link/uploads/Pl2On.jpg"
     },
     {
         "type": "movie",
-        "id": "movie/7925",
-        "title": "الخلاط",
+        "id": "movie/7970",
+        "title": "Teen Wolf: The Movie",
         "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7925/الخلاط",
+        "url": "https://akwam.to/movie/7970/teen-wolf-the-movie",
+        "rating": "8.7/10",
+        "img": "https://img.akwam.link/uploads/9dBpb.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7973",
+        "title": "Shark Waters",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7973/shark-waters",
+        "rating": "4.6/10",
+        "img": "https://img.akwam.link/uploads/tpE4W.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7972",
+        "title": "The Plot to Kill My Mother",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7972/the-plot-to-kill-my-mother",
+        "rating": "5.9/10",
+        "img": "https://img.akwam.link/uploads/xFG43.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7971",
+        "title": "Imani",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7971/imani",
+        "rating": "4.4/10",
+        "img": "https://img.akwam.link/uploads/f40zX.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7969",
+        "title": "Summer Frost",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7969/summer-frost",
         "rating": "5.5/10",
-        "img": "https://img.akwam.link/uploads/4U5Rz.jpg"
+        "img": "https://img.akwam.link/uploads/fJDCf.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7968",
+        "title": "All Eyes",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7968/all-eyes",
+        "rating": "5.4/10",
+        "img": "https://img.akwam.link/uploads/hPqUo.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7967",
+        "title": "Night Train",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7967/night-train",
+        "rating": "6.3/10",
+        "img": "https://img.akwam.link/uploads/bblsG.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7966",
+        "title": "Babylon",
+        "quality": "CAM",
+        "url": "https://akwam.to/movie/7966/babylon",
+        "rating": "7.6/10",
+        "img": "https://img.akwam.link/uploads/j7QzW.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7885",
+        "title": "M3GAN",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7885/m3gan",
+        "rating": "6.6/10",
+        "img": "https://img.akwam.link/uploads/uAZ6m.jpg"
     }
 ]
