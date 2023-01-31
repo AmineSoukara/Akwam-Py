@@ -1,6 +1,78 @@
 [
     {
         "type": "movie",
+        "id": "movie/7973",
+        "title": "Shark Waters",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7973/shark-waters",
+        "rating": "4.6/10",
+        "img": "https://img.akwam.link/uploads/tpE4W.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7972",
+        "title": "The Plot to Kill My Mother",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7972/the-plot-to-kill-my-mother",
+        "rating": "5.9/10",
+        "img": "https://img.akwam.link/uploads/xFG43.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7971",
+        "title": "Imani",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7971/imani",
+        "rating": "4.4/10",
+        "img": "https://img.akwam.link/uploads/f40zX.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7969",
+        "title": "Summer Frost",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7969/summer-frost",
+        "rating": "5.5/10",
+        "img": "https://img.akwam.link/uploads/fJDCf.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7968",
+        "title": "All Eyes",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7968/all-eyes",
+        "rating": "5.4/10",
+        "img": "https://img.akwam.link/uploads/hPqUo.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7967",
+        "title": "Night Train",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7967/night-train",
+        "rating": "6.3/10",
+        "img": "https://img.akwam.link/uploads/bblsG.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7966",
+        "title": "Babylon",
+        "quality": "CAM",
+        "url": "https://akwam.to/movie/7966/babylon",
+        "rating": "7.6/10",
+        "img": "https://img.akwam.link/uploads/j7QzW.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7885",
+        "title": "M3GAN",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7885/m3gan",
+        "rating": "6.6/10",
+        "img": "https://img.akwam.link/uploads/uAZ6m.jpg"
+    },
+    {
+        "type": "movie",
         "id": "movie/7965",
         "title": "The Price of Family",
         "quality": "WEB-DL",
@@ -199,75 +271,84 @@
     },
     {
         "type": "movie",
-        "id": "movie/7939",
-        "title": "Detective Knight: Independence",
+        "id": "movie/7532",
+        "title": "Black Panther: Wakanda Forever",
         "quality": "BluRay",
-        "url": "https://akwam.to/movie/7939/detective-knight-independence",
-        "rating": "3.6/10",
-        "img": "https://img.akwam.link/uploads/5znaQ.jpg"
+        "url": "https://akwam.to/movie/7532/black-panther-wakanda-forever-14",
+        "rating": "7.2/10",
+        "img": "https://img.akwam.link/uploads/38KAU.jpg"
     },
     {
         "type": "movie",
-        "id": "movie/7582",
-        "title": "Triangle of Sadness",
-        "quality": "BluRay",
-        "url": "https://akwam.to/movie/7582/triangle-of-sadness",
-        "rating": "7.5/10",
-        "img": "https://img.akwam.link/uploads/shi32.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7945",
-        "title": "فيلم 6/45",
+        "id": "movie/7999",
+        "title": "Raangi",
         "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7945/فيلم-6-45",
-        "rating": "7.0/10",
-        "img": "https://img.akwam.link/uploads/kJ5dK.jpg"
+        "url": "https://akwam.to/movie/7999/raangi",
+        "rating": "5.3/10",
+        "img": "https://img.akwam.link/uploads/OZHjJ.jpg"
     },
     {
         "type": "movie",
-        "id": "movie/7943",
-        "title": "Chhatriwali",
+        "id": "movie/8001",
+        "title": "The Nomad",
         "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7943/chhatriwali",
+        "url": "https://akwam.to/movie/8001/the-nomad",
+        "rating": "5.8/10",
+        "img": "https://img.akwam.link/uploads/qZpfy.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8000",
+        "title": "Jije",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/8000/jije",
+        "rating": "2.4/10",
+        "img": "https://img.akwam.link/uploads/Ogzfd.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7998",
+        "title": "Operation Fryday",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7998/operation-fryday",
+        "rating": "6.0/10",
+        "img": "https://img.akwam.link/uploads/4bi1F.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7997",
+        "title": "Bhoy",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7997/bhoy",
+        "rating": "6.0/10",
+        "img": "https://img.akwam.link/uploads/7WN5b.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7996",
+        "title": "Yuddha Kaandam",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7996/yuddha-kaandam",
         "rating": "5.5/10",
-        "img": "https://img.akwam.link/uploads/XKfDg.jpg"
+        "img": "https://img.akwam.link/uploads/HQhnO.jpeg"
     },
     {
         "type": "movie",
-        "id": "movie/7941",
-        "title": "Mission Majnu",
+        "id": "movie/7995",
+        "title": "Cottage No. 1303",
         "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7941/mission-majnu",
-        "rating": "9.0/10",
-        "img": "https://img.akwam.link/uploads/73NjJ.jpg"
+        "url": "https://akwam.to/movie/7995/cottage-no-1303",
+        "rating": "3.1/10",
+        "img": "https://img.akwam.link/uploads/hqCkc.jpg"
     },
     {
         "type": "movie",
-        "id": "movie/7940",
-        "title": "Jung_E",
+        "id": "movie/7994",
+        "title": "Blueback",
         "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7940/jung_e",
-        "rating": "6.9/10",
-        "img": "https://img.akwam.link/uploads/HOYzD.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7938",
-        "title": "Plane",
-        "quality": "CAM",
-        "url": "https://akwam.to/movie/7938/plane",
-        "rating": "6.9/10",
-        "img": "https://img.akwam.link/uploads/3kfsA.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7937",
-        "title": "Mega Lightning",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7937/mega-lightning",
-        "rating": "5.5/10",
-        "img": "https://img.akwam.link/uploads/ktg0I.jpg"
+        "url": "https://akwam.to/movie/7994/blueback",
+        "rating": "6.1/10",
+        "img": "https://img.akwam.link/uploads/wWGMG.jpg"
     },
     {
         "type": "movie",
@@ -379,15 +460,6 @@
     },
     {
         "type": "movie",
-        "id": "movie/7532",
-        "title": "Black Panther: Wakanda Forever",
-        "quality": "HDRIP",
-        "url": "https://akwam.to/movie/7532/black-panther-wakanda-forever-14",
-        "rating": "7.2/10",
-        "img": "https://img.akwam.link/uploads/38KAU.jpg"
-    },
-    {
-        "type": "movie",
         "id": "movie/7981",
         "title": "An Action Hero",
         "quality": "WEB-DL",
@@ -466,77 +538,5 @@
         "url": "https://akwam.to/movie/7970/teen-wolf-the-movie",
         "rating": "8.7/10",
         "img": "https://img.akwam.link/uploads/9dBpb.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7973",
-        "title": "Shark Waters",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7973/shark-waters",
-        "rating": "4.6/10",
-        "img": "https://img.akwam.link/uploads/tpE4W.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7972",
-        "title": "The Plot to Kill My Mother",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7972/the-plot-to-kill-my-mother",
-        "rating": "5.9/10",
-        "img": "https://img.akwam.link/uploads/xFG43.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7971",
-        "title": "Imani",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7971/imani",
-        "rating": "4.4/10",
-        "img": "https://img.akwam.link/uploads/f40zX.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7969",
-        "title": "Summer Frost",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7969/summer-frost",
-        "rating": "5.5/10",
-        "img": "https://img.akwam.link/uploads/fJDCf.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7968",
-        "title": "All Eyes",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7968/all-eyes",
-        "rating": "5.4/10",
-        "img": "https://img.akwam.link/uploads/hPqUo.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7967",
-        "title": "Night Train",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7967/night-train",
-        "rating": "6.3/10",
-        "img": "https://img.akwam.link/uploads/bblsG.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7966",
-        "title": "Babylon",
-        "quality": "CAM",
-        "url": "https://akwam.to/movie/7966/babylon",
-        "rating": "7.6/10",
-        "img": "https://img.akwam.link/uploads/j7QzW.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7885",
-        "title": "M3GAN",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7885/m3gan",
-        "rating": "6.6/10",
-        "img": "https://img.akwam.link/uploads/uAZ6m.jpg"
     }
 ]

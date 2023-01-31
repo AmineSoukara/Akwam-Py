@@ -1,5 +1,86 @@
 [
     {
+        "type": "shows",
+        "id": "shows/2469",
+        "title": "شارك تانك مصر",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/shows/2469/شارك-تانك-مصر",
+        "rating": "6.3/10",
+        "img": "https://img.akwam.link/uploads/NhyvR.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8001",
+        "title": "The Nomad",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/8001/the-nomad",
+        "rating": "5.8/10",
+        "img": "https://img.akwam.link/uploads/qZpfy.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8000",
+        "title": "Jije",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/8000/jije",
+        "rating": "2.4/10",
+        "img": "https://img.akwam.link/uploads/Ogzfd.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7999",
+        "title": "Raangi",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7999/raangi",
+        "rating": "5.3/10",
+        "img": "https://img.akwam.link/uploads/OZHjJ.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7998",
+        "title": "Operation Fryday",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7998/operation-fryday",
+        "rating": "6.0/10",
+        "img": "https://img.akwam.link/uploads/4bi1F.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7997",
+        "title": "Bhoy",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7997/bhoy",
+        "rating": "6.0/10",
+        "img": "https://img.akwam.link/uploads/7WN5b.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7996",
+        "title": "Yuddha Kaandam",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7996/yuddha-kaandam",
+        "rating": "5.5/10",
+        "img": "https://img.akwam.link/uploads/HQhnO.jpeg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7995",
+        "title": "Cottage No. 1303",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7995/cottage-no-1303",
+        "rating": "3.1/10",
+        "img": "https://img.akwam.link/uploads/hqCkc.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7994",
+        "title": "Blueback",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7994/blueback",
+        "rating": "6.1/10",
+        "img": "https://img.akwam.link/uploads/wWGMG.jpg"
+    },
+    {
         "type": "series",
         "id": "series/3958",
         "title": "Al Sancak الموسم الاول",
@@ -7,6 +88,33 @@
         "url": "https://akwam.to/series/3958/al-sancak-الموسم-الاول",
         "rating": "6.7/10",
         "img": "https://img.akwam.link/uploads/RzRTW.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/3957",
+        "title": "Colin from Accounts الموسم الاول",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3957/colin-from-accounts-الموسم-الاول",
+        "rating": "8.4/10",
+        "img": "https://img.akwam.link/uploads/wDj15.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/3956",
+        "title": "Chemistry of Death الموسم الاول",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3956/chemistry-of-death-الموسم-الاول",
+        "rating": "7.3/10",
+        "img": "https://img.akwam.link/uploads/gxXQB.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/3955",
+        "title": "Departure الموسم الثالث",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3955/departure-الموسم-الثالث",
+        "rating": "6.9/10",
+        "img": "https://img.akwam.link/uploads/DUnPS.jpg"
     },
     {
         "type": "series",
@@ -394,77 +502,5 @@
         "url": "https://akwam.to/series/3940/wolf-pack-الموسم-الاول",
         "rating": "7.6/10",
         "img": "https://img.akwam.link/uploads/9XVGc.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7968",
-        "title": "All Eyes",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7968/all-eyes",
-        "rating": "5.4/10",
-        "img": "https://img.akwam.link/uploads/hPqUo.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7967",
-        "title": "Night Train",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7967/night-train",
-        "rating": "6.3/10",
-        "img": "https://img.akwam.link/uploads/bblsG.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3939",
-        "title": "أزمة منتصف العمر",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3939/أزمة-منتصف-العمر",
-        "rating": "6.5/10",
-        "img": "https://img.akwam.link/uploads/Y6O2q.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7966",
-        "title": "Babylon",
-        "quality": "CAM",
-        "url": "https://akwam.to/movie/7966/babylon",
-        "rating": "7.6/10",
-        "img": "https://img.akwam.link/uploads/j7QzW.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3938",
-        "title": "Against the Ropes الموسم الاول",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3938/against-the-ropes-الموسم-الاول",
-        "rating": "5.5/10",
-        "img": "https://img.akwam.link/uploads/4umya.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3937",
-        "title": "The Endless Night الموسم الاول",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3937/the-endless-night-الموسم-الاول",
-        "rating": "6.0/10",
-        "img": "https://img.akwam.link/uploads/EwhXM.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7965",
-        "title": "The Price of Family",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7965/the-price-of-family",
-        "rating": "5.7/10",
-        "img": "https://img.akwam.link/uploads/WhEWf.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7964",
-        "title": "The Hanging Sun",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7964/the-hanging-sun",
-        "rating": "5.2/10",
-        "img": "https://img.akwam.link/uploads/So7rq.jpg"
     }
 ]
