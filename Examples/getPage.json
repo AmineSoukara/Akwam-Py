@@ -1,5 +1,59 @@
 [
     {
+        "type": "movie",
+        "id": "movie/8015",
+        "title": "The Ghosts of Monday",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/8015/the-ghosts-of-monday",
+        "rating": "3.2/10",
+        "img": "https://img.akwam.link/uploads/cwmSk.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8014",
+        "title": "Killer Grades",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/8014/killer-grades",
+        "rating": "4.7/10",
+        "img": "https://img.akwam.link/uploads/RzQmb.jpg"
+    },
+    {
+        "type": "shows",
+        "id": "shows/2471",
+        "title": "معكم منى الشاذلي موسم 2023",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/shows/2471/معكم-منى-الشاذلي-موسم-2023",
+        "rating": "5.8/10",
+        "img": "https://img.akwam.link/uploads/VLqvU.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/3960",
+        "title": "Spencer Sisters الموسم الاول",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3960/spencer-sisters-الموسم-الاول",
+        "rating": "7.0/10",
+        "img": "https://img.akwam.link/uploads/mSWbU.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/3959",
+        "title": "The Watchful Eye الموسم الاول",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3959/the-watchful-eye-الموسم-الاول",
+        "rating": "7.1/10",
+        "img": "https://img.akwam.link/uploads/hAsGH.jpg"
+    },
+    {
+        "type": "shows",
+        "id": "shows/2470",
+        "title": "WWE Monday Night Raw 2023.01.30",
+        "quality": "HDTV",
+        "url": "https://akwam.to/shows/2470/wwe-monday-night-raw-2023-01-30",
+        "rating": "6.0/10",
+        "img": "https://img.akwam.link/uploads/CIZ4J.jpg"
+    },
+    {
         "type": "shows",
         "id": "shows/2469",
         "title": "شارك تانك مصر",
@@ -7,6 +61,114 @@
         "url": "https://akwam.to/shows/2469/شارك-تانك-مصر",
         "rating": "6.3/10",
         "img": "https://img.akwam.link/uploads/NhyvR.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8013",
+        "title": "The Predator",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/8013/the-predator",
+        "rating": "5.3/10",
+        "img": "https://img.akwam.link/uploads/QJbpO.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8012",
+        "title": "Prometheus",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/8012/prometheus",
+        "rating": "7.0/10",
+        "img": "https://img.akwam.link/uploads/db8hZ.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8011",
+        "title": "Predators",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/8011/predators",
+        "rating": "6.4/10",
+        "img": "https://img.akwam.link/uploads/ZFDs3.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8010",
+        "title": "Predator 2",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/8010/predator-2",
+        "rating": "6.3/10",
+        "img": "https://img.akwam.link/uploads/YWuzh.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8009",
+        "title": "Predator",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/8009/predator",
+        "rating": "7.8/10",
+        "img": "https://img.akwam.link/uploads/MNGHh.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8008",
+        "title": "AVPR: Aliens vs Predator - Requiem",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/8008/avpr-aliens-vs-predator-requiem",
+        "rating": "4.6/10",
+        "img": "https://img.akwam.link/uploads/HBlfu.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8007",
+        "title": "AVP: Alien vs. Predator",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/8007/avp-alien-vs-predator",
+        "rating": "5.6/10",
+        "img": "https://img.akwam.link/uploads/kbLrh.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8006",
+        "title": "Aliens",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/8006/aliens",
+        "rating": "8.4/10",
+        "img": "https://img.akwam.link/uploads/KiFeG.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8005",
+        "title": "Alien",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/8005/alien",
+        "rating": "8.5/10",
+        "img": "https://img.akwam.link/uploads/ggwmf.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8004",
+        "title": "Alien³",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/8004/alien",
+        "rating": "6.4/10",
+        "img": "https://img.akwam.link/uploads/c5puE.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8003",
+        "title": "Alien Resurrection",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/8003/alien-resurrection",
+        "rating": "6.2/10",
+        "img": "https://img.akwam.link/uploads/bEaD6.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8002",
+        "title": "Alien: Covenant",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/8002/alien-covenant",
+        "rating": "6.4/10",
+        "img": "https://img.akwam.link/uploads/b0C3c.jpg"
     },
     {
         "type": "movie",
@@ -349,158 +511,5 @@
         "url": "https://akwam.to/series/3944/lockwood-co-الموسم-الاول",
         "rating": "8.1/10",
         "img": "https://img.akwam.link/uploads/dZXms.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7979",
-        "title": "Airborne",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7979/airborne",
-        "rating": "6.1/10",
-        "img": "https://img.akwam.link/uploads/QOmUn.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7978",
-        "title": "Shotgun Wedding",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7978/shotgun-wedding",
-        "rating": "5.8/10",
-        "img": "https://img.akwam.link/uploads/WsfVv.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7977",
-        "title": "Bullet Train Down",
-        "quality": "BluRay",
-        "url": "https://akwam.to/movie/7977/bullet-train-down",
-        "rating": "4.0/10",
-        "img": "https://img.akwam.link/uploads/rX2xC.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7976",
-        "title": "Haunted Valley",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7976/haunted-valley",
-        "rating": "8.5/10",
-        "img": "https://img.akwam.link/uploads/sbvmp.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7975",
-        "title": "You People",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7975/you-people",
-        "rating": "5.4/10",
-        "img": "https://img.akwam.link/uploads/Iea17.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7974",
-        "title": "Air Force the Movie: Selagi Bernyawa",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7974/air-force-the-movie-selagi-bernyawa",
-        "rating": "5.6/10",
-        "img": "https://img.akwam.link/uploads/Pl2On.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7973",
-        "title": "Shark Waters",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7973/shark-waters",
-        "rating": "4.6/10",
-        "img": "https://img.akwam.link/uploads/tpE4W.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3943",
-        "title": "Poker Face الموسم الاول",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3943/poker-face-الموسم-الاول",
-        "rating": "7.9/10",
-        "img": "https://img.akwam.link/uploads/xhqFO.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7972",
-        "title": "The Plot to Kill My Mother",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7972/the-plot-to-kill-my-mother",
-        "rating": "5.9/10",
-        "img": "https://img.akwam.link/uploads/xFG43.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7971",
-        "title": "Imani",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7971/imani",
-        "rating": "4.4/10",
-        "img": "https://img.akwam.link/uploads/f40zX.jpg"
-    },
-    {
-        "type": "shows",
-        "id": "shows/2464",
-        "title": "AEW Dynamite 2023.01.25",
-        "quality": "WebRip",
-        "url": "https://akwam.to/shows/2464/aew-dynamite-2023-01-25",
-        "rating": "5.8/10",
-        "img": "https://img.akwam.link/uploads/5kjgq.jpg"
-    },
-    {
-        "type": "shows",
-        "id": "shows/2463",
-        "title": "WWE NXT 2023.01.24",
-        "quality": "WebRip",
-        "url": "https://akwam.to/shows/2463/wwe-nxt 2023-01-24",
-        "rating": "5.3/10",
-        "img": "https://img.akwam.link/uploads/VYt7N.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7970",
-        "title": "Teen Wolf: The Movie",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7970/teen-wolf-the-movie",
-        "rating": "8.7/10",
-        "img": "https://img.akwam.link/uploads/9dBpb.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3942",
-        "title": "صائد الكنوز السحرية دانيال سبيلباوند الموسم الثاني",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3942/صائد-الكنوز-السحرية-دانيال-سبيلباوند-الموسم-الثاني",
-        "rating": "6.9/10",
-        "img": "https://img.akwam.link/uploads/xM8kq.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3941",
-        "title": "Record of Ragnarok الموسم الثاني",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3941/record-of-ragnarok-الموسم-الثاني",
-        "rating": "6.2/10",
-        "img": "https://img.akwam.link/uploads/LFUN9.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7969",
-        "title": "Summer Frost",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7969/summer-frost",
-        "rating": "5.5/10",
-        "img": "https://img.akwam.link/uploads/fJDCf.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3940",
-        "title": "Wolf Pack الموسم الاول",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3940/wolf-pack-الموسم-الاول",
-        "rating": "7.6/10",
-        "img": "https://img.akwam.link/uploads/9XVGc.jpg"
     }
 ]
