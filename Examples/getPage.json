@@ -1,6 +1,24 @@
 [
     {
         "type": "movie",
+        "id": "movie/8016",
+        "title": "Evil Eye",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/8016/evil-eye",
+        "rating": "5.9/10",
+        "img": "https://img.akwam.link/uploads/EhIkE.jpg"
+    },
+    {
+        "type": "shows",
+        "id": "shows/2472",
+        "title": "WWE NXT 2023.01.31",
+        "quality": "HDTV",
+        "url": "https://akwam.to/shows/2472/wwe-nxt 2023-01-31",
+        "rating": "5.8/10",
+        "img": "https://img.akwam.link/uploads/VYt7N.jpg"
+    },
+    {
+        "type": "movie",
         "id": "movie/8015",
         "title": "The Ghosts of Monday",
         "quality": "WEB-DL",
@@ -349,167 +367,5 @@
         "url": "https://akwam.to/movie/7989/beyond-the-neon",
         "rating": "6.7/10",
         "img": "https://img.akwam.link/uploads/s6hQ0.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7988",
-        "title": "The Legend of Herring",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7988/the-legend-of-herring",
-        "rating": "5.5/10",
-        "img": "https://img.akwam.link/uploads/3DnIQ.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7987",
-        "title": "The Winter Witch",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7987/the-winter-witch",
-        "rating": "3.8/10",
-        "img": "https://img.akwam.link/uploads/waffd.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7986",
-        "title": "Carnifex",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7986/carnifex",
-        "rating": "4.8/10",
-        "img": "https://img.akwam.link/uploads/CiPXQ.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7985",
-        "title": "Beneath the Green",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7985/beneath-the-green",
-        "rating": "4.2/10",
-        "img": "https://img.akwam.link/uploads/YUmo1.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7984",
-        "title": "Mask of the Devil",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7984/mask-of-the-devil",
-        "rating": "5.7/10",
-        "img": "https://img.akwam.link/uploads/cD7B9.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7983",
-        "title": "Legions",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7983/legions",
-        "rating": "5.3/10",
-        "img": "https://img.akwam.link/uploads/Wv68C.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7982",
-        "title": "Waking Karma",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7982/waking-karma",
-        "rating": "5.5/10",
-        "img": "https://img.akwam.link/uploads/FIQr6.jpg"
-    },
-    {
-        "type": "shows",
-        "id": "shows/2468",
-        "title": "WWE Royal Rumble 2023",
-        "quality": "WebRip",
-        "url": "https://akwam.to/shows/2468/wwe-royal-rumble-2023",
-        "rating": "7.1/10",
-        "img": "https://img.akwam.link/uploads/uSuzt.jpg"
-    },
-    {
-        "type": "shows",
-        "id": "shows/2467",
-        "title": "AEW Rampage 2023.01.27",
-        "quality": "WebRip",
-        "url": "https://akwam.to/shows/2467/aew-rampage-2023-01-27",
-        "rating": "5.8/10",
-        "img": "https://img.akwam.link/uploads/xbGwc.jpg"
-    },
-    {
-        "type": "shows",
-        "id": "shows/2466",
-        "title": "WWE Friday Night Smackdown 2023.01.27",
-        "quality": "HDTV",
-        "url": "https://akwam.to/shows/2466/wwe-friday-night-smackdown-2023-01-27",
-        "rating": "6.8/10",
-        "img": "https://img.akwam.link/uploads/tLD7p.jpg"
-    },
-    {
-        "type": "shows",
-        "id": "shows/2465",
-        "title": "جوز ولوز",
-        "quality": "HDTV",
-        "url": "https://akwam.to/shows/2465/جوز-ولوز",
-        "rating": "5.3/10",
-        "img": "https://img.akwam.link/uploads/mTrf4.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7981",
-        "title": "An Action Hero",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7981/an-action-hero",
-        "rating": "7.9/10",
-        "img": "https://img.akwam.link/uploads/hkIZk.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3948",
-        "title": "The Catch الموسم الاول",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3948/the-catch-الموسم-الاول",
-        "rating": "6.5/10",
-        "img": "https://img.akwam.link/uploads/Igehf.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3947",
-        "title": "Shrinking الموسم الاول",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3947/shrinking-الموسم-الاول",
-        "rating": "7.9/10",
-        "img": "https://img.akwam.link/uploads/py0Ee.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7980",
-        "title": "When You Finish Saving the World",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7980/when-you-finish-saving-the-world",
-        "rating": "6.3/10",
-        "img": "https://img.akwam.link/uploads/zdZSY.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3946",
-        "title": "Kings of Jo'burg الموسم الثاني",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3946/kings-of-jo-burg-الموسم-الثاني",
-        "rating": "5.2/10",
-        "img": "https://img.akwam.link/uploads/4ssxs.jpeg"
-    },
-    {
-        "type": "series",
-        "id": "series/3945",
-        "title": "The Snow Girl الموسم الاول",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3945/the-snow-girl-الموسم-الاول",
-        "rating": "7.9/10",
-        "img": "https://img.akwam.link/uploads/A0Vlx.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3944",
-        "title": "Lockwood & Co الموسم الاول",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3944/lockwood-co-الموسم-الاول",
-        "rating": "8.1/10",
-        "img": "https://img.akwam.link/uploads/dZXms.jpg"
     }
 ]
