@@ -1,6 +1,51 @@
 [
     {
         "type": "movie",
+        "id": "movie/7993",
+        "title": "Night of the Bastard",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7993/night-of-the-bastard",
+        "rating": "5.0/10",
+        "img": "https://img.akwam.link/uploads/JQHPD.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7992",
+        "title": "The 3rd Guest",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7992/the-3rd-guest",
+        "rating": "2.6/10",
+        "img": "https://img.akwam.link/uploads/WlUuk.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7991",
+        "title": "Werewolf Cabal",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7991/werewolf-cabal",
+        "rating": "4.9/10",
+        "img": "https://img.akwam.link/uploads/qYKXa.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7990",
+        "title": "Devil Beneath",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7990/devil-beneath",
+        "rating": "4.5/10",
+        "img": "https://img.akwam.link/uploads/bGSSo.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7989",
+        "title": "Beyond the Neon",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7989/beyond-the-neon",
+        "rating": "6.7/10",
+        "img": "https://img.akwam.link/uploads/s6hQ0.jpg"
+    },
+    {
+        "type": "movie",
         "id": "movie/7988",
         "title": "The Legend of Herring",
         "quality": "WEB-DL",
@@ -226,48 +271,48 @@
     },
     {
         "type": "movie",
-        "id": "movie/7963",
-        "title": "Panther Swat",
+        "id": "movie/8021",
+        "title": "عبود في البيت",
         "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7963/panther-swat",
-        "rating": "6.0/10",
-        "img": "https://img.akwam.link/uploads/crO8y.jpg"
+        "url": "https://akwam.to/movie/8021/عبود-في-البيت",
+        "rating": "5.5/10",
+        "img": "https://img.akwam.link/uploads/NZBZs.jpg"
     },
     {
         "type": "movie",
-        "id": "movie/7962",
-        "title": "Symbol",
-        "quality": "BluRay",
-        "url": "https://akwam.to/movie/7962/symbol",
-        "rating": "7.0/10",
-        "img": "https://img.akwam.link/uploads/45f1s.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7961",
-        "title": "The Rock",
-        "quality": "BluRay",
-        "url": "https://akwam.to/movie/7961/the-rock",
-        "rating": "7.4/10",
-        "img": "https://img.akwam.link/uploads/YS9Dd.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7960",
-        "title": "Flight",
-        "quality": "BluRay",
-        "url": "https://akwam.to/movie/7960/flight",
-        "rating": "7.3/10",
-        "img": "https://img.akwam.link/uploads/kYlfr.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7959",
-        "title": "Thattassery Koottam",
+        "id": "movie/8020",
+        "title": "Venus",
         "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7959/thattassery-koottam",
-        "rating": "5.1/10",
-        "img": "https://img.akwam.link/uploads/f4CHc.jpg"
+        "url": "https://akwam.to/movie/8020/venus",
+        "rating": "5.8/10",
+        "img": "https://img.akwam.link/uploads/TcGsf.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8019",
+        "title": "The Mummy: Resurrection",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/8019/the-mummy-resurrection",
+        "rating": "3.3/10",
+        "img": "https://img.akwam.link/uploads/yLxK6.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8018",
+        "title": "Vacation Home Nightmare",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/8018/vacation-home-nightmare",
+        "rating": "5.3/10",
+        "img": "https://img.akwam.link/uploads/Pa2Fq.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8017",
+        "title": "Mann Kasturi Re",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/8017/mann-kasturi-re",
+        "rating": "7.1/10",
+        "img": "https://img.akwam.link/uploads/B3wGE.jpg"
     },
     {
         "type": "movie",
@@ -493,50 +538,5 @@
         "url": "https://akwam.to/movie/7994/blueback",
         "rating": "6.1/10",
         "img": "https://img.akwam.link/uploads/wWGMG.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7993",
-        "title": "Night of the Bastard",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7993/night-of-the-bastard",
-        "rating": "5.0/10",
-        "img": "https://img.akwam.link/uploads/JQHPD.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7992",
-        "title": "The 3rd Guest",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7992/the-3rd-guest",
-        "rating": "2.6/10",
-        "img": "https://img.akwam.link/uploads/WlUuk.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7991",
-        "title": "Werewolf Cabal",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7991/werewolf-cabal",
-        "rating": "4.9/10",
-        "img": "https://img.akwam.link/uploads/qYKXa.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7990",
-        "title": "Devil Beneath",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7990/devil-beneath",
-        "rating": "4.5/10",
-        "img": "https://img.akwam.link/uploads/bGSSo.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7989",
-        "title": "Beyond the Neon",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7989/beyond-the-neon",
-        "rating": "6.7/10",
-        "img": "https://img.akwam.link/uploads/s6hQ0.jpg"
     }
 ]

@@ -1,6 +1,96 @@
 [
     {
         "type": "movie",
+        "id": "movie/8021",
+        "title": "عبود في البيت",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/8021/عبود-في-البيت",
+        "rating": "5.5/10",
+        "img": "https://img.akwam.link/uploads/NZBZs.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8020",
+        "title": "Venus",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/8020/venus",
+        "rating": "5.8/10",
+        "img": "https://img.akwam.link/uploads/TcGsf.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8019",
+        "title": "The Mummy: Resurrection",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/8019/the-mummy-resurrection",
+        "rating": "3.3/10",
+        "img": "https://img.akwam.link/uploads/yLxK6.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/3963",
+        "title": "Son Destan الموسم الاول",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3963/son-destan-الموسم-الاول",
+        "rating": "6.4/10",
+        "img": "https://img.akwam.link/uploads/9Dkqz.jpg"
+    },
+    {
+        "type": "shows",
+        "id": "shows/2474",
+        "title": "سعودي أيدول اكسترا",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/shows/2474/سعودي-أيدول-اكسترا",
+        "rating": "6.2/10",
+        "img": "https://img.akwam.link/uploads/DPBWH.jpg"
+    },
+    {
+        "type": "shows",
+        "id": "shows/2473",
+        "title": "AEW Dynamite 2023.02.01",
+        "quality": "WebRip",
+        "url": "https://akwam.to/shows/2473/aew-dynamite-2023-02-01",
+        "rating": "5.3/10",
+        "img": "https://img.akwam.link/uploads/5kjgq.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8018",
+        "title": "Vacation Home Nightmare",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/8018/vacation-home-nightmare",
+        "rating": "5.3/10",
+        "img": "https://img.akwam.link/uploads/Pa2Fq.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8017",
+        "title": "Mann Kasturi Re",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/8017/mann-kasturi-re",
+        "rating": "7.1/10",
+        "img": "https://img.akwam.link/uploads/B3wGE.jpg"
+    },
+    {
+        "type": "series",
+        "id": "series/3962",
+        "title": "Freeridge الموسم الاول",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3962/freeridge-الموسم-الاول",
+        "rating": "5.5/10",
+        "img": "https://img.akwam.link/uploads/mxEho.jpeg"
+    },
+    {
+        "type": "series",
+        "id": "series/3961",
+        "title": "Make My Day الموسم الاول",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/series/3961/make-my-day-الموسم-الاول",
+        "rating": "5.5/10",
+        "img": "https://img.akwam.link/uploads/DrBpa.jpg"
+    },
+    {
+        "type": "movie",
         "id": "movie/8016",
         "title": "Evil Eye",
         "quality": "WEB-DL",
@@ -241,131 +331,5 @@
         "url": "https://akwam.to/movie/7996/yuddha-kaandam",
         "rating": "5.5/10",
         "img": "https://img.akwam.link/uploads/HQhnO.jpeg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7995",
-        "title": "Cottage No. 1303",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7995/cottage-no-1303",
-        "rating": "3.1/10",
-        "img": "https://img.akwam.link/uploads/hqCkc.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7994",
-        "title": "Blueback",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7994/blueback",
-        "rating": "6.1/10",
-        "img": "https://img.akwam.link/uploads/wWGMG.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3958",
-        "title": "Al Sancak الموسم الاول",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3958/al-sancak-الموسم-الاول",
-        "rating": "6.7/10",
-        "img": "https://img.akwam.link/uploads/RzRTW.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3957",
-        "title": "Colin from Accounts الموسم الاول",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3957/colin-from-accounts-الموسم-الاول",
-        "rating": "8.4/10",
-        "img": "https://img.akwam.link/uploads/wDj15.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3956",
-        "title": "Chemistry of Death الموسم الاول",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3956/chemistry-of-death-الموسم-الاول",
-        "rating": "7.3/10",
-        "img": "https://img.akwam.link/uploads/gxXQB.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3955",
-        "title": "Departure الموسم الثالث",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3955/departure-الموسم-الثالث",
-        "rating": "6.9/10",
-        "img": "https://img.akwam.link/uploads/DUnPS.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3954",
-        "title": "Departure الموسم الثاني",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3954/departure-الموسم-الثاني",
-        "rating": "6.9/10",
-        "img": "https://img.akwam.link/uploads/KmE0p.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3953",
-        "title": "Departure الموسم الاول",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3953/departure-الموسم-الاول",
-        "rating": "6.9/10",
-        "img": "https://img.akwam.link/uploads/UqOLb.jpg"
-    },
-    {
-        "type": "series",
-        "id": "series/3952",
-        "title": "Dokuz Oğuz الموسم الاول",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/series/3952/dokuz-ouz-الموسم-الاول",
-        "rating": "7.0/10",
-        "img": "https://img.akwam.link/uploads/Q2DkV.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7993",
-        "title": "Night of the Bastard",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7993/night-of-the-bastard",
-        "rating": "5.0/10",
-        "img": "https://img.akwam.link/uploads/JQHPD.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7992",
-        "title": "The 3rd Guest",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7992/the-3rd-guest",
-        "rating": "2.6/10",
-        "img": "https://img.akwam.link/uploads/WlUuk.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7991",
-        "title": "Werewolf Cabal",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7991/werewolf-cabal",
-        "rating": "4.9/10",
-        "img": "https://img.akwam.link/uploads/qYKXa.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7990",
-        "title": "Devil Beneath",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7990/devil-beneath",
-        "rating": "4.5/10",
-        "img": "https://img.akwam.link/uploads/bGSSo.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7989",
-        "title": "Beyond the Neon",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7989/beyond-the-neon",
-        "rating": "6.7/10",
-        "img": "https://img.akwam.link/uploads/s6hQ0.jpg"
     }
 ]
