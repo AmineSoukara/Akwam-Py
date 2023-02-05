@@ -1,213 +1,6 @@
 [
     {
         "type": "movie",
-        "id": "movie/7938",
-        "title": "Plane",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7938/plane",
-        "rating": "6.9/10",
-        "img": "https://img.akwam.link/uploads/3kfsA.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/8029",
-        "title": "Skinamarink",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/8029/skinamarink",
-        "rating": "5.3/10",
-        "img": "https://img.akwam.link/uploads/dMd4n.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/8028",
-        "title": "R.M.N",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/8028/r-m-n",
-        "rating": "7.5/10",
-        "img": "https://img.akwam.link/uploads/mVKsm.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/8027",
-        "title": "Stromboli",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/8027/stromboli",
-        "rating": "6.7/10",
-        "img": "https://img.akwam.link/uploads/oOF17.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/8026",
-        "title": "True Spirit",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/8026/true-spirit",
-        "rating": "5.5/10",
-        "img": "https://img.akwam.link/uploads/EfAIT.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/8025",
-        "title": "Infiesto",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/8025/infiesto",
-        "rating": "5.5/10",
-        "img": "https://img.akwam.link/uploads/fH39r.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/8024",
-        "title": "Viking Wolf",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/8024/viking-wolf",
-        "rating": "6.8/10",
-        "img": "https://img.akwam.link/uploads/7jb9u.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/8023",
-        "title": "Legion of Super-Heroes",
-        "quality": "BluRay",
-        "url": "https://akwam.to/movie/8023/legion-of-super-heroes",
-        "rating": "5.9/10",
-        "img": "https://img.akwam.link/uploads/RvSLJ.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/8022",
-        "title": "Alice, Darling",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/8022/alice-darling",
-        "rating": "6.1/10",
-        "img": "https://img.akwam.link/uploads/ld2OK.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/8021",
-        "title": "عبود في البيت",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/8021/عبود-في-البيت",
-        "rating": "5.5/10",
-        "img": "https://img.akwam.link/uploads/NZBZs.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/8020",
-        "title": "Venus",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/8020/venus",
-        "rating": "5.8/10",
-        "img": "https://img.akwam.link/uploads/TcGsf.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/8019",
-        "title": "The Mummy: Resurrection",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/8019/the-mummy-resurrection",
-        "rating": "3.3/10",
-        "img": "https://img.akwam.link/uploads/yLxK6.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/8018",
-        "title": "Vacation Home Nightmare",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/8018/vacation-home-nightmare",
-        "rating": "5.3/10",
-        "img": "https://img.akwam.link/uploads/Pa2Fq.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/8017",
-        "title": "Mann Kasturi Re",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/8017/mann-kasturi-re",
-        "rating": "7.1/10",
-        "img": "https://img.akwam.link/uploads/B3wGE.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/8016",
-        "title": "Evil Eye",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/8016/evil-eye",
-        "rating": "5.9/10",
-        "img": "https://img.akwam.link/uploads/EhIkE.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/8013",
-        "title": "The Predator",
-        "quality": "BluRay",
-        "url": "https://akwam.to/movie/8013/the-predator",
-        "rating": "5.3/10",
-        "img": "https://img.akwam.link/uploads/QJbpO.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/8002",
-        "title": "Alien: Covenant",
-        "quality": "BluRay",
-        "url": "https://akwam.to/movie/8002/alien-covenant",
-        "rating": "6.4/10",
-        "img": "https://img.akwam.link/uploads/b0C3c.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/8012",
-        "title": "Prometheus",
-        "quality": "BluRay",
-        "url": "https://akwam.to/movie/8012/prometheus",
-        "rating": "7.0/10",
-        "img": "https://img.akwam.link/uploads/db8hZ.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/8011",
-        "title": "Predators",
-        "quality": "BluRay",
-        "url": "https://akwam.to/movie/8011/predators",
-        "rating": "6.4/10",
-        "img": "https://img.akwam.link/uploads/ZFDs3.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/8008",
-        "title": "AVPR: Aliens vs Predator - Requiem",
-        "quality": "BluRay",
-        "url": "https://akwam.to/movie/8008/avpr-aliens-vs-predator-requiem",
-        "rating": "4.6/10",
-        "img": "https://img.akwam.link/uploads/HBlfu.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/8007",
-        "title": "AVP: Alien vs. Predator",
-        "quality": "BluRay",
-        "url": "https://akwam.to/movie/8007/avp-alien-vs-predator",
-        "rating": "5.6/10",
-        "img": "https://img.akwam.link/uploads/kbLrh.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/8003",
-        "title": "Alien Resurrection",
-        "quality": "BluRay",
-        "url": "https://akwam.to/movie/8003/alien-resurrection",
-        "rating": "6.2/10",
-        "img": "https://img.akwam.link/uploads/bEaD6.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/8004",
-        "title": "Alien³",
-        "quality": "BluRay",
-        "url": "https://akwam.to/movie/8004/alien",
-        "rating": "6.4/10",
-        "img": "https://img.akwam.link/uploads/c5puE.jpg"
-    },
-    {
-        "type": "movie",
         "id": "movie/8010",
         "title": "Predator 2",
         "quality": "BluRay",
@@ -478,65 +271,272 @@
     },
     {
         "type": "movie",
-        "id": "movie/7979",
-        "title": "Airborne",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7979/airborne",
-        "rating": "6.1/10",
-        "img": "https://img.akwam.link/uploads/QOmUn.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7978",
-        "title": "Shotgun Wedding",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7978/shotgun-wedding",
-        "rating": "5.8/10",
-        "img": "https://img.akwam.link/uploads/WsfVv.jpg"
-    },
-    {
-        "type": "movie",
-        "id": "movie/7977",
-        "title": "Bullet Train Down",
+        "id": "movie/8033",
+        "title": "Taurus",
         "quality": "BluRay",
-        "url": "https://akwam.to/movie/7977/bullet-train-down",
-        "rating": "4.0/10",
-        "img": "https://img.akwam.link/uploads/rX2xC.jpg"
+        "url": "https://akwam.to/movie/8033/taurus",
+        "rating": "4.9/10",
+        "img": "https://img.akwam.link/uploads/Otd4K.jpg"
     },
     {
         "type": "movie",
-        "id": "movie/7976",
-        "title": "Haunted Valley",
+        "id": "movie/8036",
+        "title": "Blood",
         "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7976/haunted-valley",
-        "rating": "8.5/10",
-        "img": "https://img.akwam.link/uploads/sbvmp.jpg"
+        "url": "https://akwam.to/movie/8036/blood",
+        "rating": "5.9/10",
+        "img": "https://img.akwam.link/uploads/NS2kL.jpg"
     },
     {
         "type": "movie",
-        "id": "movie/7975",
-        "title": "You People",
+        "id": "movie/8035",
+        "title": "In the Heart of the Machine",
         "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7975/you-people",
-        "rating": "5.4/10",
-        "img": "https://img.akwam.link/uploads/Iea17.jpg"
+        "url": "https://akwam.to/movie/8035/in-the-heart-of-the-machine",
+        "rating": "7.5/10",
+        "img": "https://img.akwam.link/uploads/l9HYo.jpg"
     },
     {
         "type": "movie",
-        "id": "movie/7974",
-        "title": "Air Force the Movie: Selagi Bernyawa",
+        "id": "movie/8034",
+        "title": "Streetwalker",
         "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7974/air-force-the-movie-selagi-bernyawa",
+        "url": "https://akwam.to/movie/8034/streetwalker",
+        "rating": "3.5/10",
+        "img": "https://img.akwam.link/uploads/pSxws.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8032",
+        "title": "18Pages",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/8032/18pages",
+        "rating": "7.2/10",
+        "img": "https://img.akwam.link/uploads/uFYlY.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8031",
+        "title": "Vadh",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/8031/vadh",
+        "rating": "7.4/10",
+        "img": "https://img.akwam.link/uploads/rnIpt.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8030",
+        "title": "Mukhachitram",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/8030/mukhachitram",
+        "rating": "7.1/10",
+        "img": "https://img.akwam.link/uploads/tmZcv.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/7938",
+        "title": "Plane",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/7938/plane",
+        "rating": "6.9/10",
+        "img": "https://img.akwam.link/uploads/3kfsA.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8029",
+        "title": "Skinamarink",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/8029/skinamarink",
+        "rating": "5.3/10",
+        "img": "https://img.akwam.link/uploads/dMd4n.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8028",
+        "title": "R.M.N",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/8028/r-m-n",
+        "rating": "7.5/10",
+        "img": "https://img.akwam.link/uploads/mVKsm.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8027",
+        "title": "Stromboli",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/8027/stromboli",
+        "rating": "6.7/10",
+        "img": "https://img.akwam.link/uploads/oOF17.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8026",
+        "title": "True Spirit",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/8026/true-spirit",
+        "rating": "5.5/10",
+        "img": "https://img.akwam.link/uploads/EfAIT.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8025",
+        "title": "Infiesto",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/8025/infiesto",
+        "rating": "5.5/10",
+        "img": "https://img.akwam.link/uploads/fH39r.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8024",
+        "title": "Viking Wolf",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/8024/viking-wolf",
+        "rating": "6.8/10",
+        "img": "https://img.akwam.link/uploads/7jb9u.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8023",
+        "title": "Legion of Super-Heroes",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/8023/legion-of-super-heroes",
+        "rating": "5.9/10",
+        "img": "https://img.akwam.link/uploads/RvSLJ.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8022",
+        "title": "Alice, Darling",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/8022/alice-darling",
+        "rating": "6.1/10",
+        "img": "https://img.akwam.link/uploads/ld2OK.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8021",
+        "title": "عبود في البيت",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/8021/عبود-في-البيت",
+        "rating": "5.5/10",
+        "img": "https://img.akwam.link/uploads/NZBZs.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8020",
+        "title": "Venus",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/8020/venus",
+        "rating": "5.8/10",
+        "img": "https://img.akwam.link/uploads/TcGsf.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8019",
+        "title": "The Mummy: Resurrection",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/8019/the-mummy-resurrection",
+        "rating": "3.3/10",
+        "img": "https://img.akwam.link/uploads/yLxK6.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8018",
+        "title": "Vacation Home Nightmare",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/8018/vacation-home-nightmare",
+        "rating": "5.3/10",
+        "img": "https://img.akwam.link/uploads/Pa2Fq.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8017",
+        "title": "Mann Kasturi Re",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/8017/mann-kasturi-re",
+        "rating": "7.1/10",
+        "img": "https://img.akwam.link/uploads/B3wGE.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8016",
+        "title": "Evil Eye",
+        "quality": "WEB-DL",
+        "url": "https://akwam.to/movie/8016/evil-eye",
+        "rating": "5.9/10",
+        "img": "https://img.akwam.link/uploads/EhIkE.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8013",
+        "title": "The Predator",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/8013/the-predator",
+        "rating": "5.3/10",
+        "img": "https://img.akwam.link/uploads/QJbpO.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8002",
+        "title": "Alien: Covenant",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/8002/alien-covenant",
+        "rating": "6.4/10",
+        "img": "https://img.akwam.link/uploads/b0C3c.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8012",
+        "title": "Prometheus",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/8012/prometheus",
+        "rating": "7.0/10",
+        "img": "https://img.akwam.link/uploads/db8hZ.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8011",
+        "title": "Predators",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/8011/predators",
+        "rating": "6.4/10",
+        "img": "https://img.akwam.link/uploads/ZFDs3.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8008",
+        "title": "AVPR: Aliens vs Predator - Requiem",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/8008/avpr-aliens-vs-predator-requiem",
+        "rating": "4.6/10",
+        "img": "https://img.akwam.link/uploads/HBlfu.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8007",
+        "title": "AVP: Alien vs. Predator",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/8007/avp-alien-vs-predator",
         "rating": "5.6/10",
-        "img": "https://img.akwam.link/uploads/Pl2On.jpg"
+        "img": "https://img.akwam.link/uploads/kbLrh.jpg"
     },
     {
         "type": "movie",
-        "id": "movie/7970",
-        "title": "Teen Wolf: The Movie",
-        "quality": "WEB-DL",
-        "url": "https://akwam.to/movie/7970/teen-wolf-the-movie",
-        "rating": "8.7/10",
-        "img": "https://img.akwam.link/uploads/9dBpb.jpg"
+        "id": "movie/8003",
+        "title": "Alien Resurrection",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/8003/alien-resurrection",
+        "rating": "6.2/10",
+        "img": "https://img.akwam.link/uploads/bEaD6.jpg"
+    },
+    {
+        "type": "movie",
+        "id": "movie/8004",
+        "title": "Alien³",
+        "quality": "BluRay",
+        "url": "https://akwam.to/movie/8004/alien",
+        "rating": "6.4/10",
+        "img": "https://img.akwam.link/uploads/c5puE.jpg"
     }
 ]
